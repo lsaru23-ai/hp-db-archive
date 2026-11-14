@@ -1,4 +1,4 @@
-# 함평 이동범 종가와 백범 김구, 128년의 인연 — 공개 아카이브
+# 함평 이동범가, 128년의 인연 — 공개 아카이브
 
 『백범일지』에 기록된 1898년 전남 함평 ‘이 진사’ 댁에서의 보름 체류에서 시작해, 1946년의 재회와 1947년 「光明」 휘호, 그리고 현존 종가와 이재혁 가옥의 관계까지 정리한 연재 4편의 정적 HTML 아카이브입니다.
 
@@ -10,16 +10,16 @@
 
 | 편 | 제목 | 페이지 |
 |---|---|---|
-| 1 | 『백범일지』 속 ‘함평 이 진사’는 누구였을까 | [post1.html](post1.html) |
-| 2 | 김구는 왜 함평의 ‘이 진사’ 집에서 보름을 머물렀을까 | [post2.html](post2.html) |
-| 3 | 김구는 왜 함평을 나주로 기억했을까 | [post3.html](post3.html) |
-| 4 | 이동범·이재승 종가와 이재혁 가옥 | [post4.html](post4.html) |
+| 1 | ‘이 진사’는 누구였나 — 백범 김구와 함평 이동범가 | [post1.html](post1.html) |
+| 2 | 보름을 머문 이유 — 1898년, 함평의 은신 | [post2.html](post2.html) |
+| 3 | 1946년 재회와 光明 — 김구가 다시 찾은 인연 | [post3.html](post3.html) |
+| 4 | 종가와 이재혁 가옥 — 두 집에 남은 128년 | [post4.html](post4.html) |
 
 ## 구성
 
 - `index.html` — 목차 (각 편 대표 사진과 한 줄 요약)
 - `post1.html` ~ `post4.html` — 각 편 본문. 시맨틱 HTML(`article`, `h1`·`h2`, `p`, `figure`/`figcaption`)과 Open Graph, JSON-LD(BlogPosting) 메타데이터 포함
-- `images/` — 1~3편 사진 6장, `images/post4/` — 4편 사진 9장 (촬영 메타데이터를 제거하고 웹용으로 축소)
+- `images/` — 1~3편 사진 6장, `images/post4/` — 4편 사진 6장 (촬영 메타데이터를 제거하고 웹용으로 축소)
 - `robots.txt` — 검색·사용자 요청용 크롤러(OAI-SearchBot, ChatGPT-User, Claude-SearchBot, Claude-User, PerplexityBot, Googlebot, Yeti 등) 허용, AI 학습용 수집기(GPTBot, ClaudeBot, anthropic-ai, CCBot, Google-Extended) 차단
 - `sitemap.xml`
 - `llms.txt`, `llms-full.txt` — LLM이 읽기 좋은 요약과 4편 전문
