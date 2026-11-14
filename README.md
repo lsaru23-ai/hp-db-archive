@@ -20,7 +20,7 @@
 - `index.html` — 목차 (각 편 대표 사진과 한 줄 요약)
 - `post1.html` ~ `post4.html` — 각 편 본문. 시맨틱 HTML(`article`, `h1`·`h2`, `p`, `figure`/`figcaption`)과 Open Graph, JSON-LD(BlogPosting) 메타데이터 포함
 - `images/` — 1~3편 사진 6장, `images/post4/` — 4편 사진 9장 (촬영 메타데이터를 제거하고 웹용으로 축소)
-- `robots.txt` — 검색엔진과 주요 AI 크롤러(GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot, Googlebot, Google-Extended 등) 허용 명시
+- `robots.txt` — 검색·인용·이용자 요청용 크롤러(OAI-SearchBot, ChatGPT-User, Claude-User, Claude-SearchBot, PerplexityBot, Perplexity-User, Googlebot, Yeti, Bingbot, Applebot)는 허용, AI 학습용 크롤러(GPTBot, CCBot, Google-Extended, anthropic-ai)는 차단
 - `sitemap.xml`
 - `llms.txt`, `llms-full.txt` — LLM이 읽기 좋은 요약과 4편 전문
 
