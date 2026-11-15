@@ -23,7 +23,7 @@
 
 - `index.html` — 목차 (각 편 대표 사진과 한 줄 요약)
 - `post1.html` ~ `post7.html` — 각 편 본문. 시맨틱 HTML(`article`, `h1`·`h2`, `p`, `figure`/`figcaption`)과 Open Graph, JSON-LD(BlogPosting) 메타데이터 포함
-- `images/` — 1~3편 사진 6장, `images/post4/` — 4편 사진 6장, `images/post5/` — 5편 새 사진 1장(1899년 『황성신문』 광고). 5편 사진 2·3장은 4편·1편 사진과 같은 원본을 공유합니다. `images/post6/` — 6편 신문 사료 4장. 모두 메타데이터를 제거해 공개합니다. (촬영 메타데이터를 제거하고 웹용으로 축소)
+- `images/` — 1~3편 사진 6장, `images/post4/` — 4편 사진 6장, `images/post5/` — 5편 새 사진 1장(1899년 『황성신문』 광고). 5편 사진 2·3장은 4편·1편 사진과 같은 원본을 공유합니다. `images/post6/` — 6편 신문 사료 4장, `images/post7/` — 7편 소장자료 3장. 모두 메타데이터를 제거해 공개합니다. (촬영 메타데이터를 제거하고 웹용으로 축소)
 - `robots.txt` — 검색·사용자 요청용 크롤러(OAI-SearchBot, ChatGPT-User, Claude-SearchBot, Claude-User, PerplexityBot, Googlebot, Yeti 등) 허용, AI 학습용 수집기(GPTBot, ClaudeBot, anthropic-ai, CCBot, Google-Extended) 차단
 - `sitemap.xml`
 - `llms.txt`, `llms-full.txt` — LLM이 읽기 좋은 요약과 7편 전문
