@@ -21,15 +21,17 @@
 | 8 | 신문란 — 1930년 무렵, 학교를 떠난 며느리 | [post8.html](post8.html) |
 | 9 | 지도에 남은 이름 — 기각리 원도 속 ‘李載昇’ | [post9.html](post9.html) |
 | 10 | 3천 석은 어디로 갔을까 — 기록이 말하는 것과 말하지 않는 것 | [post10.html](post10.html) |
+| 안내 | 잠시 숨을 고르며 — 열 편의 기록을 마친 뒤 | [notice.html](notice.html) |
 
 ## 구성
 
-- `index.html` — 목차 (각 편 대표 사진과 한 줄 요약)
+- `index.html` — 목차 (각 편 대표 사진과 한 줄 요약, 맨 위에 「연재 안내」 배너)
 - `post1.html` ~ `post10.html` — 각 편 본문. 시맨틱 HTML(`article`, `h1`·`h2`, `p`, `figure`/`figcaption`)과 Open Graph, JSON-LD(BlogPosting) 메타데이터 포함
+- `notice.html` — 번호 없는 「연재 안내 — 잠시 숨을 고르며」 페이지. 연재 1~10편과 별도로 두는 안내입니다.
 - `images/` — 1~3편 사진 6장, `images/post4/` — 4편 사진 6장, `images/post5/` — 5편 새 사진 1장(1899년 『황성신문』 광고). 5편 사진 2·3장은 4편·1편 사진과 같은 원본을 공유합니다. `images/post6/` — 6편 신문 사료 4장, `images/post7/` — 7편 소장자료 3장, `images/post8/` — 8편 소장자료 5장, `images/post9/` — 9편 지적원도 사본 3장, `images/post10/` — 10편 사진 1장(1편 종가 전경 재사용). 모두 메타데이터를 제거해 공개합니다. (촬영 메타데이터를 제거하고 웹용으로 축소)
 - `robots.txt` — 검색·사용자 요청용 크롤러(OAI-SearchBot, ChatGPT-User, Claude-SearchBot, Claude-User, PerplexityBot, Googlebot, Yeti 등) 허용, AI 학습용 수집기(GPTBot, ClaudeBot, anthropic-ai, CCBot, Google-Extended) 차단
 - `sitemap.xml`
-- `llms.txt`, `llms-full.txt` — LLM이 읽기 좋은 요약과 10편 전문
+- `llms.txt`, `llms-full.txt` — LLM이 읽기 좋은 요약과 10편 전문 및 연재 안내
 
 ## 서술 원칙
 

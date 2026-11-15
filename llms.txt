@@ -12,6 +12,7 @@
 - [제8편: 신문란 — 1930년 무렵, 학교를 떠난 며느리](https://lsaru23-ai.github.io/hp-db-archive/post8.html): 할아버지 이상래의 아내이자 종가의 며느리로 시집온 신문란(1912~2005) 여사의 삶을 혼례 사진, 이재승 가족사진, 광주여고보 단체 사진과 1920년대 말 탑골공원 독사진으로 따라간 편. 광주여고보 재학과 1929년 광주학생독립운동, 1930년 무렵 학교를 떠났다고 전하는 경위, 시누이로 전해지는 이옥 선생의 공식 기록과 남은 질문까지. · [네이버 원문](https://blog.naver.com/congcongyi/224477788682)
 - [제9편: 지도에 남은 이름 — 기각리 원도 속 ‘李載昇’](https://lsaru23-ai.github.io/hp-db-archive/post9.html): 『咸平郡咸平面箕閣里原圖 二十二枚之內 第九號』 지적원도에서 증조부 춘강 이재승의 이름 ‘李載昇’을 찾아 읽은 편. 자료를 토지대장으로 잘못 분류했다가 지적원도로 바로잡은 과정, 김희태 연구자의 1917년 함평 경관 연구, 가족 전승으로 남은 무안 땅 이야기까지. 필지번호와 현재 위치는 특정하지 않았습니다. · [네이버 원문](https://blog.naver.com/congcongyi/224477818969)
 - [제10편: 3천 석은 어디로 갔을까 — 기록이 말하는 것과 말하지 않는 것](https://lsaru23-ai.github.io/hp-db-archive/post10.html): ‘3천 석의 부호’라는 후대 기록과 1909년 나주경찰서 보고에 남은 의병 측의 군수금 1만 원 요구 전령을 출발점으로, 이동범가의 재산이 지나온 길을 묻는 편. 요구 기록은 실제 지급을 증명하지 않으며, 공출·농지개혁·전쟁은 일반 역사 배경으로, 집안의 재산 변화는 가족의 짐작으로 구분해 적었습니다. · [네이버 원문](https://blog.naver.com/congcongyi/224477845604)
+- [연재 안내 — 잠시 숨을 고르며](https://lsaru23-ai.github.io/hp-db-archive/notice.html): 1~10편을 마치고 잠시 숨을 고르는 연재 안내. 지난 글의 점검 계획과, ‘인물과 사료’에서 ‘삶과 기억’으로 넘어갈 제2부 예고를 담았습니다. · [네이버 원문](https://blog.naver.com/congcongyi/224477859251)
 
 - 공개 채널: [X @hp_db_archive](https://x.com/hp_db_archive) · [Threads @hp_db_archive](https://www.threads.com/@hp_db_archive)
 - [전체 본문 한 파일](https://lsaru23-ai.github.io/hp-db-archive/llms-full.txt): 10편 전문·사진 설명·참고자료

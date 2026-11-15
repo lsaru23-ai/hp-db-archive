@@ -152,6 +152,13 @@ footer.site a{color:var(--purple);border:0}
 .card .num{font-size:.78rem;color:var(--purple);letter-spacing:.08em}
 .card h2{font-size:1.06rem;margin:.25em 0 .4em;line-height:1.5;border:0;padding:0;color:var(--ink)}
 .card p{margin:0;font-size:.9rem;color:var(--sub);line-height:1.7}
+.notice-banner{display:grid;grid-template-columns:150px 1fr;margin:2.2em 0 0;border:1px solid rgba(128,104,216,.45);border-radius:8px;overflow:hidden;background:#FAF8FE;color:inherit}
+.notice-banner img{width:150px;height:100%;object-fit:cover;display:block}
+.notice-banner .body{padding:16px 18px}
+.notice-banner .num{font-size:.78rem;color:var(--purple);letter-spacing:.08em;font-weight:700}
+.notice-banner h2{font-size:1.06rem;margin:.25em 0 .4em;line-height:1.5;border:0;padding:0;color:var(--ink)}
+.notice-banner p{margin:0;font-size:.9rem;color:var(--sub);line-height:1.7}
+@media(max-width:560px){.notice-banner{grid-template-columns:1fr}.notice-banner img{width:100%;height:170px}}
 @media(max-width:560px){.card a{grid-template-columns:1fr}.card img{width:100%;height:170px}article h1{font-size:1.45rem}body{font-size:16px}}
 </style>
 </head>
@@ -162,6 +169,7 @@ footer.site a{color:var(--purple);border:0}
   <nav aria-label="연재 목차">
    <a href="index.html">목차</a>
    <a href="post1.html">1편</a><a href="post2.html">2편</a><a href="post3.html">3편</a><a href="post4.html">4편</a><a href="post5.html">5편</a><a href="post6.html">6편</a><a href="post7.html">7편</a><a href="post8.html">8편</a><a href="post9.html">9편</a><a href="post10.html">10편</a>
+   <a href="notice.html">연재 안내</a>
   </nav>
  </div>
 </header>
@@ -171,6 +179,7 @@ footer.site a{color:var(--purple);border:0}
 <p class="series">『백범일지』의 한 대목에서 시작한 가족사 조사 기록 · 전 10편</p>
 <p>1898년, 인천감옥을 탈옥한 청년 김구 선생이 전남 함평의 ‘이 진사’ 댁에서 약 보름을 머물렀습니다. 그 집이 저희 고조부 석암 이동범(石庵 李東範, 1869~1940) 선생의 집이라는 이야기는 『백범일지』와 가족의 기억으로 오늘까지 전해져 왔습니다.</p>
 <p>이 아카이브는 2026년 백범김구기념관에서 아버지의 인터뷰를 진행해 주신 것을 계기로, 문헌과 가족 소장자료, 후손의 증언을 하나씩 대조하며 정리한 연재 1~10편을 한곳에 모은 것입니다. 기록으로 확인되는 사실과 가족 전승, 그리고 아직 밝혀지지 않은 조사 과제를 구분해 적었습니다.</p>
+<a class="notice-banner" href="notice.html" aria-label="연재 안내 — 잠시 숨을 고르며"><img src="images/notice/01-다락_IMG_1517_대표.jpg" alt="함평 이동범 종가 본채의 다락" loading="lazy"><div class="body"><span class="num">연재 안내</span><h2>잠시 숨을 고르며 — 열 편의 기록을 마친 뒤</h2><p>1~10편을 마치고 잠시 숨을 고르는 연재 안내. 지난 글의 점검 계획과, ‘인물과 사료’에서 ‘삶과 기억’으로 넘어갈 제2부 예고를 담았습니다.</p></div></a>
 <h2>연재 목차</h2>
 <ul class="cards">
 <li class="card"><a href="post1.html"><img src="images/hampyeong-interview-lee-ilwan.jpg" alt="제1편 대표 사진" loading="lazy">
@@ -205,7 +214,7 @@ footer.site a{color:var(--purple);border:0}
 </main>
 <footer class="site">
  <div class="wrap">
-  <p>이 사이트는 네이버 블로그 연재 「함평 이동범가, 128년의 인연」 1~10편의 공개 아카이브입니다. 확인된 사실과 가족 전승, 앞으로의 조사 과제를 구분해 기록합니다.</p>
+  <p>이 사이트는 네이버 블로그 연재 「함평 이동범가, 128년의 인연」 1~10편과 번호 없는 「연재 안내」의 공개 아카이브입니다. 확인된 사실과 가족 전승, 앞으로의 조사 과제를 구분해 기록합니다.</p>
   <p>백범김구기념관 공식 인터뷰 영상: <a href="https://youtu.be/NZlIOjAmNzg">https://youtu.be/NZlIOjAmNzg</a></p>
   <p>원문 연재: <a href="https://blog.naver.com/congcongyi">blog.naver.com/congcongyi</a></p>
   <p>공개 채널: <a href="https://x.com/hp_db_archive">X @hp_db_archive</a> · <a href="https://www.threads.com/@hp_db_archive">Threads @hp_db_archive</a></p>
