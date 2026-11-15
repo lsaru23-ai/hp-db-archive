@@ -1,6 +1,6 @@
 # 함평 이동범가, 128년의 인연 — 공개 아카이브
 
-『백범일지』에 기록된 1898년 전남 함평 ‘이 진사’ 댁에서의 보름 체류에서 시작해, 1946년의 재회와 1947년 「光明」 휘호, 그리고 현존 종가와 이재혁 가옥의 관계, ‘이 진사’ 석암 이동범과 종가를 이은 장남 춘강 이재승의 생애까지 정리한 연재 7편의 정적 HTML 아카이브입니다.
+『백범일지』에 기록된 1898년 전남 함평 ‘이 진사’ 댁에서의 보름 체류에서 시작해, 1946년의 재회와 1947년 「光明」 휘호, 그리고 현존 종가와 이재혁 가옥의 관계, ‘이 진사’ 석암 이동범과 종가를 이은 장남 춘강 이재승의 생애까지 정리한 연재 8편의 정적 HTML 아카이브입니다.
 
 - 공개 주소: https://lsaru23-ai.github.io/hp-db-archive/
 - 원문 연재(네이버 블로그): https://blog.naver.com/congcongyi
@@ -18,15 +18,16 @@
 | 5 | 석암 이동범 — ‘이 진사’의 생애 | [post5.html](post5.html) |
 | 6 | 춘강 이재승 — 종가를 이은 장남 | [post6.html](post6.html) |
 | 7 | 이상래 — 「光明」에 이름이 남은 손자 | [post7.html](post7.html) |
+| 8 | 신문란 — 1930년 무렵, 학교를 떠난 며느리 | [post8.html](post8.html) |
 
 ## 구성
 
 - `index.html` — 목차 (각 편 대표 사진과 한 줄 요약)
-- `post1.html` ~ `post7.html` — 각 편 본문. 시맨틱 HTML(`article`, `h1`·`h2`, `p`, `figure`/`figcaption`)과 Open Graph, JSON-LD(BlogPosting) 메타데이터 포함
+- `post1.html` ~ `post8.html` — 각 편 본문. 시맨틱 HTML(`article`, `h1`·`h2`, `p`, `figure`/`figcaption`)과 Open Graph, JSON-LD(BlogPosting) 메타데이터 포함
 - `images/` — 1~3편 사진 6장, `images/post4/` — 4편 사진 6장, `images/post5/` — 5편 새 사진 1장(1899년 『황성신문』 광고). 5편 사진 2·3장은 4편·1편 사진과 같은 원본을 공유합니다. `images/post6/` — 6편 신문 사료 4장, `images/post7/` — 7편 소장자료 3장. 모두 메타데이터를 제거해 공개합니다. (촬영 메타데이터를 제거하고 웹용으로 축소)
 - `robots.txt` — 검색·사용자 요청용 크롤러(OAI-SearchBot, ChatGPT-User, Claude-SearchBot, Claude-User, PerplexityBot, Googlebot, Yeti 등) 허용, AI 학습용 수집기(GPTBot, ClaudeBot, anthropic-ai, CCBot, Google-Extended) 차단
 - `sitemap.xml`
-- `llms.txt`, `llms-full.txt` — LLM이 읽기 좋은 요약과 7편 전문
+- `llms.txt`, `llms-full.txt` — LLM이 읽기 좋은 요약과 8편 전문
 
 ## 서술 원칙
 
