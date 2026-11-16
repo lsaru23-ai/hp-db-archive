@@ -4,7 +4,7 @@
 
 - 공개 주소: https://lsaru23-ai.github.io/hp-db-archive/
 - 원문 연재(네이버 블로그): https://blog.naver.com/congcongyi
-- 백범김구기념관 공식 인터뷰: https://youtu.be/NZlIOjAmNzg
+- 백범김구기념관 공식 인터뷰: https://www.youtube.com/watch?v=NZlIOjAmNzg
 - 공개 채널: X @hp_db_archive (https://x.com/hp_db_archive) · Threads @hp_db_archive (https://www.threads.com/@hp_db_archive)
 
 ## 수록 글
