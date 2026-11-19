@@ -881,3 +881,842 @@ https://www.youtube.com/watch?v=NZlIOjAmNzg
 *이 연재는 문헌에서 직접 확인되는 사실과 집안의 전승을 구분해 작성했습니다. 새로 확인되는 사료에 따라 지난 글도 계속 보완하겠습니다.*
 #함평이동범가 #128년의인연 #백범김구 #백범일지 #석암이동범 #춘강이재승 #光明 #함평역사 #최종편
 
+# 게시판 「128년의 기록과 보도」
+
+> 옛 신문·관보·공문서·기관 기록·언론 보도를 원문과 함께 소개하는 게시판. 각 글은 기록에서 확인되는 사실과 그 기록만으로는 확인할 수 없는 내용을 나누어 적습니다. 기록 번호(REC)는 고정 식별번호이며, 검증을 마친 기록부터 국문·영문으로 공개합니다.
+
+
+## [기록 001] 1897년 『관보』 — 조경묘 참봉 임명과 사임
+URL: https://lsaru23-ai.github.io/hp-db-archive/rec-001.html · 네이버 원문: https://blog.naver.com/congcongyi/224480480847
+
+「128년의 기록과 보도」 · 기록 001
+**「128년의 기록과 보도」는 함평 이동범가와 관련된 옛 신문·관보·공문서와 기관 기록, 언론 보도를 원문(판독이 어려운 자료는 판독 가능한 부분)과 함께 소개하는 게시판입니다.**
+**각 글은 기록에서 확인되는 사실과 그 기록만으로는 확인할 수 없는 내용을 나누어 적습니다.**
+**분류** [사료] 『관보』 (대한제국 선포 이전, 조선 정부 발행)
+**자료 일자** 1897년 6월 28일 임명 (관보 게재 6월 30일, 제676호) · 7월 4일 의원면 (관보 게재 7월 6일, 제681호)
+**기록 대상 시기** 1897년 6월 하순 ~ 7월 초
+**원문 출처** 국사편찬위원회 한국사DB 「조선·대한제국 관보」
+**원면** [제676호](https://db.history.go.kr/modern/gb/level.do?levelId=gbdh_1897_06_30_a00676_00030) · [제681호](https://db.history.go.kr/modern/gb/level.do?levelId=gbdh_1897_07_06_a00681_00080) · 『승정원일기』 [고종 34년 5월 29일](https://sjw.history.go.kr/id/SJW-K34050290-00400) · [6월 5일](https://sjw.history.go.kr/id/SJW-K34060050-00400) (원문 이미지는 링크로 열람)
+
+### 이 기록은
+
+석암 이동범 선생의 관직 기록 가운데 현재까지 확인된 가장 이른 기록입니다. 1897년 6~7월은 대한제국 선포(1897. 10. 12.) 이전이므로, 이 『관보』는 당시 조선 정부가 발행한 것입니다(한국사DB의 자료군 명칭은 「조선·대한제국 관보」).
+1917년 『매일신보』는 선생이 "조경묘(肇慶廟) 참봉으로 처음 벼슬길에 올랐다"고 소개했는데, 그 내용을 정부 공식 기록으로 확인할 수 있는 자료입니다. 조경묘는 전주에 있는, 전주 이씨 시조를 모신 사당입니다.
+
+### 원문 (발췌)
+
+[원면 설명 1] 『관보』 제676호(1897. 6. 30.) 1면 머리 부분 (자료: 국사편찬위원회 한국사데이터베이스)
+[원면 설명 2] 같은 호 3면, 조경묘 참봉 임명 기록 발췌 (자료: 같음)
+> 제676호 서임 및 사령(6월 23·27·28일분): 任肇慶廟參奉敍判任官八等 李東範
+> 제681호 서임 및 사령(7월 2~4일분): 肇慶廟參奉 李東範 依願免本官
+> 『승정원일기』 고종 34년 5월 29일(양력 1897. 6. 28.): 任肇慶廟參奉李東範
+> 『승정원일기』 고종 34년 6월 5일(양력 1897. 7. 4.): 肇慶廟參奉李東範, 依免
+
+### 현대어 풀이
+
+제676호: 이동범을 조경묘 참봉에 임명하고 판임관 8등에 서임한다.
+제681호: 조경묘 참봉 이동범을 본인의 청원에 따라 그 관직에서 면한다.
+
+### 기록에서 확인되는 사실
+
+**1897년 6월 28일** 조경묘 참봉에 임명되었고, **7월 4일** 본인 청원으로 물러났습니다. 『승정원일기』의 날짜(음력)를 양력으로 바꾸면 『관보』의 발령일과 같습니다.
+이 기록은 1899년 『황성신문』 광고에 '전 참봉(前參奉)'으로 적힌 이유를 설명해 줍니다([기록 002](https://blog.naver.com/congcongyi/224480494312)).
+
+### 이 기록만으로 확인할 수 없는 것
+
+실제로 조경묘에 근무했는지, 근무했다면 어떤 일을 했는지
+짧은 기간 안에 사임한 이유
+2003년 조사보고서에 적힌 '1902년 참봉' 기술과의 차이. 관보 기준으로는 1897년이며, 보고서의 연도는 다른 자료와 맞지 않습니다.
+
+### 함께 볼 글
+
+연재 [제5편 석암 이동범 — '이 진사'의 생애](https://blog.naver.com/congcongyi/224477304863)
+연재 [번외편 ① 석암 이동범의 선대 어르신들](https://blog.naver.com/congcongyi/224478136397)
+---
+**출처**: 『관보』 제676호(1897. 6. 30.), 제681호(1897. 7. 6.), 국사편찬위원회 한국사DB. 『승정원일기』 고종 34년 5월 29일·6월 5일, 국사편찬위원회 승정원일기 DB. ※ 1895년 이후 이 시기의 기록은 비서원(祕書院)에서 작성했습니다. 이 글에서는 국사편찬위원회 DB의 자료군 명칭에 따라 『승정원일기』로 적습니다.
+이 기록과 관련된 자료(옛 사진, 문서, 신문 스크랩 등)를 갖고 계신 분은 블로그 쪽지로 알려 주시면 감사하겠습니다. 전체 연표: [128년의 기록과 보도 — 연표](https://blog.naver.com/congcongyi/224480535151)
+
+## [기록 002] 1899년 『황성신문』 — '전 참봉 이동범'의 도장 분실 광고
+URL: https://lsaru23-ai.github.io/hp-db-archive/rec-002.html · 네이버 원문: https://blog.naver.com/congcongyi/224480494312
+
+「128년의 기록과 보도」 · 기록 002
+**「128년의 기록과 보도」는 함평 이동범가와 관련된 옛 신문·관보·공문서와 기관 기록, 언론 보도를 원문(판독이 어려운 자료는 판독 가능한 부분)과 함께 소개하는 게시판입니다.**
+**각 글은 기록에서 확인되는 사실과 그 기록만으로는 확인할 수 없는 내용을 나누어 적습니다.**
+**분류** [사료] 신문 광고
+**자료 일자** 1899년 8월 23일, 『황성신문』 3면
+**기록 대상 시기** 음력 1899년 7월 2일 밤 (도장 분실)
+**원문 출처** 『황성신문』 1899. 8. 23. 3면
+**원면** 연재 [제5편](https://blog.naver.com/congcongyi/224477304863)에 원면 사진 수록 · 원 신문 열람은 국립중앙도서관 대한민국신문아카이브
+
+### 이 기록은
+
+지금까지 찾은 신문 기록 가운데 이동범 선생의 이름이 가장 먼저 나오는 자료입니다. 김구 선생이 함평을 다녀간 이듬해 실린 짧은 광고입니다.
+
+### 원문 판독
+
+[원면 설명 1] 『황성신문』 1899. 8. 23. 원면 발췌 (자료: 『황성신문』)
+> 廣告
+> 前參奉李東範氏가陰七月初二日夜에陰陽刻ᄒᆞᆫ姓名章을見失ᄒᆞ얏ᄉᆞ니
+> 該日븟터其圖章은施行치아니ᄒᆞᆷ
+> 李東範 白
+
+### 현대어 풀이
+
+광고. 전 참봉 이동범 씨가 음력 7월 2일 밤에 음각과 양각으로 새긴 성명 도장을 잃어버렸으니, 그날부터 그 도장은 쓰지 않습니다. 이동범 알림.
+
+### 기록에서 확인되는 사실
+
+1899년 8월 당시 이동범 선생은 '전 참봉(前參奉)'으로 불렸습니다.
+이 호칭은 1897년 조경묘 참봉 임명·사임 기록([기록 001](https://blog.naver.com/congcongyi/224480480847))과 맞습니다.
+광고는 '李東範 白(이동범 알림)'이라는 본인 명의로 실렸습니다.
+
+### 이 기록만으로 확인할 수 없는 것
+
+도장을 잃어버린 경위와 장소
+1898년 김구 선생 체류와의 관련성 (이 광고는 그 일을 언급하지 않습니다)
+『백범일지』의 '이 진사'가 이동범 선생이라는 점을 직접 증명하지는 않습니다.
+
+### 함께 볼 글
+
+연재 [제5편](https://blog.naver.com/congcongyi/224477304863) · [제1편 '이 진사'는 누구였나](https://blog.naver.com/congcongyi/224475495967)
+---
+출처: 『황성신문』 1899년 8월 23일 3면 광고.
+이 기록과 관련된 자료(옛 사진, 문서, 신문 스크랩 등)를 갖고 계신 분은 블로그 쪽지로 알려 주시면 감사하겠습니다. 전체 연표: [128년의 기록과 보도 — 연표](https://blog.naver.com/congcongyi/224480535151)
+
+## [기록 008] 1923년 『동아일보』 — 함평흥산조합 총회와 민립대학 함평군부
+URL: https://lsaru23-ai.github.io/hp-db-archive/rec-008.html · 네이버 원문: https://blog.naver.com/congcongyi/224480524449
+
+「128년의 기록과 보도」 · 기록 008
+**「128년의 기록과 보도」는 함평 이동범가와 관련된 옛 신문·관보·공문서와 기관 기록, 언론 보도를 원문(판독이 어려운 자료는 판독 가능한 부분)과 함께 소개하는 게시판입니다.**
+**각 글은 기록에서 확인되는 사실과 그 기록만으로는 확인할 수 없는 내용을 나누어 적습니다.**
+**분류** [사료] 신문 기사 2건
+**자료 일자** ① 1923년 8월 5일 · ② 1923년 12월 15일, 『동아일보』
+**기록 대상 시기** ① 1923년 7월 24일 총회 · ② 1923년 12월 10일 조직 대회
+**원면** 연재 [제6편](https://blog.naver.com/congcongyi/224477647467)에 원면 사진 수록 · 원 신문 열람은 동아일보 아카이브·네이버 뉴스 라이브러리
+
+### 이 기록은
+
+1923년 『동아일보』에 실린 두 기사입니다. 이동범 선생의 두 아들 이재승·이재혁이 함평 지역 단체에서 맡은 역할을 보여 줍니다.
+
+### 원문 판독 ① 「咸平興産組合總會」 (1923. 8. 5.)
+
+[원면 설명 1] 『동아일보』 1923. 8. 5. 원면 발췌 (자료: 『동아일보』)
+> 全南咸平郡興産組合에서는去月二十四日下午四時咸平公立普通學校內에서
+> 第三回定期總會를專務理事李載爀氏開會辭로開하고諸般報告와決議가有한後
+> 滿期任員을改選하얏는데그決議와改選된任員은如左하더라
+> 一、第三回營業報告、貸借對照表、財産目錄及損益計算書承認의件
+> 一、定款改正의件 …
+> 組合長 李載昇　專務理事 李載爀 … (이하 임원 명단 일부 판독 중)
+
+### 원문 판독 ② 「民大咸平郡部 盛況裏에組織」 (1923. 12. 15.)
+
+[원면 설명 2] 『동아일보』 1923. 12. 15. 원면 발췌 (자료: 『동아일보』)
+> 咸平에서는今般民大中央部執行委員李甲成白南震兩氏가當地에出張함을機會로
+> 咸平靑年會主催로去十日午後八時에靑年會館內에서咸平郡地方部組織大講演會를
+> 開催하얏는대會衆은數百名에達하야大盛況裡에靑年會長李載爀氏開會辭로
+> 李甲成氏의趣旨說明에滿場人士는無限感動되야卽席에서咸平郡部組織을一致可決한後
+> 執行委員長을投票한바李載爀氏가當選되고 … 咸平郡守吳光殷氏의祝辭가잇고 …
+> 被選된委員은執行委員長李載爀　常務委員□□□外九人　保管委員李載昇外一人
+> 監査委員李吉範外二人 …
+
+### 현대어 풀이 (요지)
+
+① 함평흥산조합이 7월 24일 오후 4시 함평공립보통학교에서 제3회 정기총회를 열었다. 전무이사 이재혁이 개회사를 했고, 영업보고 승인과 정관 개정 등을 결의했으며, 임원을 다시 뽑았다. 조합장은 이재승, 전무이사는 이재혁이다.
+② 민립대학 기성회 중앙부 집행위원 이갑성·백남진이 함평에 온 것을 계기로, 함평청년회 주최 강연회(12월 10일 저녁 8시, 청년회관)에서 함평군부 조직을 결의했다. 청년회장 이재혁이 개회사를 했고 집행위원장으로 선출되었다. 이재승은 보관위원으로 선출되었다.
+
+### 기록에서 확인되는 사실
+
+1923년 이재승은 함평흥산조합 조합장, 이재혁은 같은 조합의 전무이사였습니다.
+같은 해 민립대학설립운동 함평군부에서 이재혁은 집행위원장, 이재승은 보관위원으로 선출되었습니다. 이재혁은 당시 함평청년회장이기도 했습니다.
+당대 신문은 이재혁의 이름을 李載爀으로 적었습니다.
+
+### 이 기록만으로 확인할 수 없는 것
+
+조합과 민립대학 함평군부에서 두 사람이 실제로 한 활동의 범위와 기간
+이 활동이 독립운동으로 평가되는지 여부 (이 기사는 조직 결성 보도입니다)
+①의 임원 명단 전체 (일부 판독 중)
+
+### 함께 볼 글
+
+연재 [제6편 춘강 이재승](https://blog.naver.com/congcongyi/224477647467)
+---
+출처: 『동아일보』 1923년 8월 5일 「咸平興産組合總會」, 1923년 12월 15일 「民大咸平郡部 盛況裏에組織」.
+이 기록과 관련된 자료(옛 사진, 문서, 신문 스크랩 등)를 갖고 계신 분은 블로그 쪽지로 알려 주시면 감사하겠습니다. 전체 연표: [128년의 기록과 보도 — 연표](https://blog.naver.com/congcongyi/224480535151)
+
+## [기록 009] 1925년 함평흥산주식회사 — 『매일신보』 기사와 설립등기
+URL: https://lsaru23-ai.github.io/hp-db-archive/rec-009.html · 네이버 원문: https://blog.naver.com/congcongyi/224480528862
+
+「128년의 기록과 보도」 · 기록 009
+**「128년의 기록과 보도」는 함평 이동범가와 관련된 옛 신문·관보·공문서와 기관 기록, 언론 보도를 원문(판독이 어려운 자료는 판독 가능한 부분)과 함께 소개하는 게시판입니다.**
+**각 글은 기록에서 확인되는 사실과 그 기록만으로는 확인할 수 없는 내용을 나누어 적습니다.**
+**분류** [사료] 신문 기사 + 관보 등기 공고
+**자료 일자** 1925년 10월 24일 『매일신보』 · 1925년 12월 4일 『조선총독부관보』 제3988호
+**기록 대상 시기** 1920년 조합 창립(신문 기사 서술) → 1925년 10월 3일 회사 설립 · 10월 12일 등기 (관보)
+**원면** 연재 [제6편](https://blog.naver.com/congcongyi/224477647467)에 『매일신보』 원면 사진 수록 · 관보 원문: [한국사DB 제3988호 상업등기](https://db.history.go.kr/modern/gb/level.do?levelId=gb_1925_12_04_a39880_0390)
+
+### 이 기록은
+
+1923년 기사([기록 008](https://blog.naver.com/congcongyi/224480524449))에 나오는 함평흥산조합이 1925년 주식회사로 바뀐 과정을 보여 주는 자료입니다.
+
+### 원문 판독 「咸平에 有望한 興産株式會社 萬無一失을 自期」 (『매일신보』 1925. 10. 24.)
+
+[원면 설명 1] 『매일신보』 1925. 10. 24. 원면 발췌 (자료: 『매일신보』)
+[원면 설명 2] [발췌 이미지 1] 1925년 12월 4일 『조선총독부관보』 제3988호 상업등기란에 실린 「株式會社設立」 공고의 서두. 오른쪽부터 상호(商號)·본점(本店)·목적(目的)·자본금(資本ノ總額, 金八萬圓)·주당 금액·불입 금액·공고 방법·설립연월일(大正拾四年拾月參日)·존립기간이 차례로 적혀 있다. 세로쓰기 일본어 원문을 그대로 옮긴 발췌 이미지이며, 임원의 「氏名住所」 열은 이 발췌에 넣지 않았다. — 원문: 『조선총독부관보』 제3988호, 1925. 12. 4.
+[원면 설명 3] [발췌 이미지 2] 같은 공고의 임원·등기 부분. 「監査役ノ氏名住所」(감사역) 아래에 감사역 3명, 「取締役ノ氏名住所」(취체역) 아래에 취체역 4명의 성명이 적혀 있고, 왼쪽에는 「會社ヲ代表スヘキ取締役ノ氏名」(회사를 대표할 취체역 — 취체역 가운데 1명이 여기에 한 번 더 적혀 있다)과 등기일(右大正拾四年拾月拾貳日登記)·등기소(光州地方法院咸平出張所)가 보인다. 성명 뒤에 붙어 있던 주소·지번(番地) 글자는 공개하지 않기 위해 모두 지웠다. 세로쓰기 일본어 원문 발췌 이미지. — 원문: 『조선총독부관보』 제3988호, 1925. 12. 4.
+> 全南咸平郡興産株式會社는大正九年度에該郡有力者李載爀張志文氏外諸氏의發起로
+> 興産組合을組織하야今日까지營業을繼續한바意外에好成績을得하야相當한利益을
+> 配當한고로一般組合員은一層奮鬪하야資金八萬圓의株式會社로變更하야十月十六日에
+> 登記手續까지終了된고로業務를一層擴張하는中이라는데 …
+> 營業의目的은精米、繰綿을主로하고更히諸般農産物을取扱한다하며役員은左와如하다더라(木浦)
+> 社長兼專務取締役李載爀▲取締役張志文▲同金琮泰▲同申鉉麟(?)▲監査役李亨己▲同李啓攻(?)
+> ▲同韓圭興▲相談役李載昇　同金東昕
+
+### 현대어 풀이 (요지, 기사 서술)
+
+함평군의 흥산주식회사는 1920년(다이쇼 9년) 이재혁·장지문 등의 발기로 흥산조합을 조직해 영업해 왔다. 성적이 좋아 이익을 배당했고, 자본금 8만 원의 주식회사로 바꾸어 10월 16일 등기를 마쳤다.
+주된 영업은 정미와 조면(목화씨를 빼는 일)이며 농산물 전반도 다룬다. 사장 겸 전무취체역은 이재혁, 상담역은 이재승 등이다.
+
+### 기록에서 확인되는 사실
+
+『매일신보』 기사에 따르면 함평흥산조합은 1920년 이재혁 등의 발기로 창립되었고, 1925년 10월 16일 자본금 8만 원의 주식회사로 등기를 마쳤습니다.
+『조선총독부관보』 제3988호(1925. 12. 4. 게재)의 상업등기 원면에는 회사 설립일이 1925년 10월 3일, 등기일이 10월 12일로 적혀 있습니다.
+『매일신보』는 '10월 16일 등기 완료'라고 보도해, 관보의 등기일(10월 12일)과 날짜가 다릅니다. 신문이 다른 절차 시점을 적은 것인지, 기사 작성 과정의 차이인지는 이 두 자료만으로는 알 수 없습니다. 이 글에서는 관보 날짜를 공식 등기 기록으로, 신문 날짜를 당시 보도 내용으로 함께 적습니다.
+『매일신보』 기사 기준으로 이재혁은 사장 겸 전무취체역, 이재승은 상담역이었습니다.
+『조선총독부관보』 제3988호(1925. 12. 4. 게재)에 이 회사의 설립등기가 실렸습니다. 다만 관보의 등기 임원 명단에는 상담역이 따로 나오지 않아, 이재승의 상담역 직함은 『매일신보』 기사로만 확인됩니다(연재 제6편).
+
+### 이 기록만으로 확인할 수 없는 것
+
+회사의 실제 경영 성과와 존속 기간
+각 임원의 실제 역할
+신문의 '10. 16. 등기 완료'와 관보 등기일 10. 12.이 다른 이유
+관보 등기 내용의 전문 판독문 (이 글에는 설립일과 등기일만 옮겼습니다)
+1920년 조합 창립 연도 (현재는 1925년 신문 기사의 서술로만 확인)
+
+### 함께 볼 글
+
+연재 [제6편](https://blog.naver.com/congcongyi/224477647467) · [기록 008](https://blog.naver.com/congcongyi/224480524449)
+---
+출처**: 『매일신보』 1925년 10월 24일; **[『조선총독부관보』 제3988호(1925. 12. 4.) 상업등기](https://db.history.go.kr/modern/gb/level.do?levelId=gb_1925_12_04_a39880_0390), 국사편찬위원회 한국사DB.
+이 기록과 관련된 자료(옛 사진, 문서, 신문 스크랩 등)를 갖고 계신 분은 블로그 쪽지로 알려 주시면 감사하겠습니다. 전체 연표: [128년의 기록과 보도 — 연표](https://blog.naver.com/congcongyi/224480535151)
+
+## [기록 011] 1938년 『동아일보』 — 「古道에 充實 春崗 李載昇氏」
+URL: https://lsaru23-ai.github.io/hp-db-archive/rec-011.html · 네이버 원문: https://blog.naver.com/congcongyi/224480531941
+
+「128년의 기록과 보도」 · 기록 011
+**「128년의 기록과 보도」는 함평 이동범가와 관련된 옛 신문·관보·공문서와 기관 기록, 언론 보도를 원문(판독이 어려운 자료는 판독 가능한 부분)과 함께 소개하는 게시판입니다.**
+**각 글은 기록에서 확인되는 사실과 그 기록만으로는 확인할 수 없는 내용을 나누어 적습니다.**
+**분류** [사료] 신문 인물 기사
+**자료 일자** 1938년 10월 4일, 『동아일보』 (함평 소개 지면)
+**원면** 연재 [제6편](https://blog.naver.com/congcongyi/224477647467)에 원면 사진 수록 · 원 신문 열람은 동아일보 아카이브·네이버 뉴스 라이브러리
+
+### 이 기록은
+
+이동범 선생의 장남 춘강 이재승을 다룬 독립된 인물 기사입니다. 제목은 '옛 도리에 충실한 춘강 이재승 씨'라는 뜻이며, 인물 사진이 함께 실렸습니다.
+
+### 원문 판독 (부분)
+
+[원면 설명 1] 『동아일보』 1938. 10. 4. 원면 발췌 (자료: 『동아일보』)
+> 古道에充實
+> 春崗 李載昇氏
+> 咸平面長을□하신(?) 明哲한氏는 度量無限하고 用心周到하고 萬事
+> 整然하고 正心바로 그것이다. 前年에 氏의 箕山農場小作人組合에
+> 自手勞力하야 … (이하 판독 중)
+
+### 현대어 풀이 (판독된 부분)
+
+옛 도리에 충실한 춘강 이재승 씨. (함평면장과 관련된 구절 — 판독·해석 불확실) 밝고 지혜로운 씨는 도량이 넓고 마음 씀이 두루 미치며, 모든 일이 가지런하고 마음이 바르다. 지난해(?) 씨의 기산농장 소작인조합에 손수 힘을 보태어 … .
+
+### 기록에서 확인되는 사실
+
+1938년 10월 『동아일보』가 함평 소개 지면에서 이재승을 독립 인물로 다뤘습니다.
+기사 제목에 호가 '春崗'으로 적혀 있습니다. 가족 자료에는 '春岡'으로 적힌 경우가 있어, 원문 표기와 가족 자료 표기를 따로 관리합니다(어느 쪽도 오기로 단정하지 않습니다).
+기사에 '咸平面長'이라는 구절과 기산농장 소작인조합 관련 구절이 있습니다.
+
+### 이 기록만으로 확인할 수 없는 것
+
+함평면장 재직 여부와 재임 기간 ('咸平面長' 앞뒤 구절의 판독·해석이 불확실합니다. 연재 제6편에서도 추가 조사 과제로 남겨 둠)
+호의 정식 한자 표기 (春崗 / 春岡)
+기산농장 소작인조합에서의 역할과 실제 활동 내용
+기사 문장 전체 (일부 판독 중)
+
+### 함께 볼 글
+
+연재 [제6편](https://blog.naver.com/congcongyi/224477647467)
+---
+출처: 『동아일보』 1938년 10월 4일, 「古道에 充實 春崗 李載昇氏」.
+이 기록과 관련된 자료(옛 사진, 문서, 신문 스크랩 등)를 갖고 계신 분은 블로그 쪽지로 알려 주시면 감사하겠습니다. 전체 연표: [128년의 기록과 보도 — 연표](https://blog.naver.com/congcongyi/224480535151)
+
+## [기록 023] 1877년 『승정원일기』 — 함평 전 오위장 이홍규의 진휼 출연
+URL: https://lsaru23-ai.github.io/hp-db-archive/rec-023.html · 네이버 원문: https://blog.naver.com/congcongyi/224483257205
+
+「128년의 기록과 보도」 · 기록 023
+**「128년의 기록과 보도」는 함평 이동범가와 관련된 옛 신문·관보·공문서와 기관 기록, 언론 보도를 원문(판독이 어려운 자료는 판독 가능한 부분)과 함께 소개하는 게시판입니다.**
+**각 글은 기록에서 확인되는 사실과 그 기록만으로는 확인할 수 없는 내용을 나누어 적습니다.**
+**분류** [사료] 『승정원일기』
+**자료 일자** 고종 14년 8월 21일(음력) = 1877년 9월 27일
+**함께 보는 기록** 고종 8년(1871) 9월 13일·21일, 고종 20년(1883) 5월 3일
+**원문 출처** 국사편찬위원회 승정원일기 DB · 서울대학교 규장각한국학연구원 원본 이미지
+**원면** [고종 14년 8월 21일 기사](https://sjw.history.go.kr/id/SJW-K14080210-01700) (원문 이미지는 '규장각원본' 링크로 열람)
+
+### 이 기록은
+
+석암 이동범 선생의 부친 이계송(李啓松) 선생은 『함평이씨대동보』에 다른 이름 '홍규(弘奎)'로도 적혀 있습니다. 1877년 『승정원일기』에는 '함평의 전 오위장 이홍규(咸平前五衛將李弘奎)'가 흉년 구휼(진휼)에 쓸 돈 1,500냥을 낸 사람으로 올라 있습니다. 전라감사 이돈상(李敦相)이 진휼을 마친 뒤 올린 보고(장계)와 명단을 근거로, 이조가 자원해 돈을 낸 사람들(願納人)에게 포상을 건의한 기사입니다.
+
+### 원문 (발췌)
+
+> 各邑願納人中 … 咸平前五衛將李弘奎, 金堤前五衛將金光栢, 各錢一千五百兩,
+> 上項二人, 施以相當職調用。
+
+### 현대어 풀이
+
+각 고을에서 자원해 돈을 낸 사람 가운데 … 함평의 전 오위장 이홍규와 김제의 전 오위장 김광백은 각각 돈 1,500냥을 냈으니, 위 두 사람은 상당한 직책에 등용하소서.
+
+### 같은 이름이 나오는 다른 기록 (『승정원일기』) — 1877년 기록의 이홍규와 같은 사람인지는 별도 검증 대상입니다
+
+1871년 9월 13일(음력, 양력 10월 26일): 병조 인사에서 李弘奎爲五衛將(오위장 임명), 이어진 인사에서 僉知單李弘奎(첨지중추부사 후보로 단독 기재)
+1871년 9월 21일(음력): 오위장 이홍규 등이 병으로 직무를 감당하지 못해 교체됨
+1873~1874년: 오위장 임명과 병에 따른 교체가 여러 차례 기록됨
+1883년 5월 3일(음력, 양력 6월 7일): 五衛將加設單(오위장 추가 임명 명단)에 이름이 있음
+
+### 기록에서 확인되는 사실
+
+1877년 '함평의 전 오위장 이홍규'가 진휼 비용으로 1,500냥을 냈다는 사실이 정부 기록에 남아 있습니다. 원본 이미지에서도 인명·지명·금액이 판독문과 같습니다.
+이조는 이 공로로 그를 '상당한 직책에 등용'하자고 건의했습니다.
+1877년 이전에 이미 오위장을 지낸 사람이었습니다('전 오위장').
+
+### 이 기록만으로 확인할 수 없는 것
+
+건의에 따라 **실제로 관직에 임용되었는지** (이 기사는 건의 단계까지만 보여 줍니다)
+1,500냥이 당시 어느 정도의 규모였는지, 어떤 방식으로 냈는지
+1871·1873·1883년 기록의 이홍규가 함평의 이홍규와 같은 사람인지. 이 기록들에는 지역 표기가 없습니다. 같은 사람으로 보는 근거는 1877년 기사의 '함평 전 오위장', 『대동보』의 '일명 홍규'와 1871년 '武僉樞' 기재, 1913년 『조선신사대동보』 이동범 항목의 '父 李弘奎(同中樞)'([기록 026](https://blog.naver.com/congcongyi/224483246191))입니다.
+오위장·첨지중추부사가 실제 근무를 전제로 한 직이었는지, 명예직 성격이었는지
+
+### 함께 볼 글
+
+연재 [번외편 ① 석암 이동범의 선대 어르신들](https://blog.naver.com/congcongyi/224478136397) · [제5편](https://blog.naver.com/congcongyi/224477304863)
+『승정원일기』 고종 14년 8월 21일, 고종 8년 9월 13일·21일, 고종 10년 1월 13일·12월 27일, 고종 11년 1월 7일, 고종 20년 5월 3일. 국사편찬위원회 승정원일기 DB, 서울대학교 규장각한국학연구원 원본.
+---
+이 기록과 관련된 자료(옛 사진, 문서, 신문 스크랩 등)를 갖고 계신 분은 블로그 쪽지로 알려 주시면 감사하겠습니다. 전체 연표: [128년의 기록과 보도 — 연표](https://blog.naver.com/congcongyi/224480535151)
+
+## [기록 024] 1891년 『승정원일기』 — 이경헌 선생의 효행 증직
+URL: https://lsaru23-ai.github.io/hp-db-archive/rec-024.html · 네이버 원문: https://blog.naver.com/congcongyi/224483231788
+
+「128년의 기록과 보도」 · 기록 024
+**「128년의 기록과 보도」는 함평 이동범가와 관련된 옛 신문·관보·공문서와 기관 기록, 언론 보도를 원문(판독이 어려운 자료는 판독 가능한 부분)과 함께 소개하는 게시판입니다.**
+**각 글은 기록에서 확인되는 사실과 그 기록만으로는 확인할 수 없는 내용을 나누어 적습니다.**
+**분류** [사료] 『승정원일기』
+**자료 일자** 고종 27년 12월 23일(음력) = 1891년 2월 1일
+**원문 출처** 국사편찬위원회 승정원일기 DB · 서울대학교 규장각한국학연구원 원본 이미지
+**원면** [고종 27년 12월 23일 기사](https://sjw.history.go.kr/id/SJW-K27120230-01600) (원문 이미지는 '규장각원본' 링크로 열람)
+
+### 이 기록은
+
+석암 이동범 선생의 조부 이경헌(李警憲, 1825~1855) 선생에게 돌아가신 뒤 관직이 내려진 기록입니다. 『함평이씨대동보』에는 이경헌 선생 항목에 '교관(敎官)'이 적혀 있는데, 그 근거가 되는 정부 기록입니다.
+
+### 원문 (발췌)
+
+> 故學生李警憲, 贈童蒙敎官, 孝行卓異贈職事, 承傳。
+
+### 현대어 풀이
+
+고(故) 학생 이경헌에게 동몽교관을 추증한다. 효행이 특별히 뛰어나 관직을 추증하는 일로 왕명을 받들어 전한다.
+
+### 기록에서 확인되는 사실
+
+1891년(음력 1890년 12월) 조정이 이경헌 선생에게 동몽교관을 추증했습니다. 추증 사유는 '효행이 특별히 뛰어남(孝行卓異)'입니다.
+해당 기록에는 '학생(學生)'으로 표기되어 있습니다. 학생은 관직이 없는 선비를 가리키는 말이지만, 이 기록만으로 생전 이력 전체를 단정하지는 않습니다.
+『대동보』의 '교관'은 이 추증을 가리키는 것으로 보입니다.
+
+### 이 기록만으로 확인할 수 없는 것
+
+효행의 구체적 내용
+추증을 누가 청했는지 (돌아가신 지 약 35년 뒤의 일입니다)
+『대동보』에 함께 적힌 '조봉대부(朝奉大夫, 종4품 품계)'의 근거. 동몽교관과 조봉대부가 어떤 관계로 기재되었는지는 확인하지 못했습니다.
+
+### 함께 볼 글
+
+연재 [번외편 ① 석암 이동범의 선대 어르신들](https://blog.naver.com/congcongyi/224478136397)
+『승정원일기』 고종 27년 12월 23일. 국사편찬위원회 승정원일기 DB, 서울대학교 규장각한국학연구원 원본.
+---
+이 기록과 관련된 자료(옛 사진, 문서, 신문 스크랩 등)를 갖고 계신 분은 블로그 쪽지로 알려 주시면 감사하겠습니다. 전체 연표: [128년의 기록과 보도 — 연표](https://blog.naver.com/congcongyi/224480535151)
+
+## [기록 026] 1913년 『조선신사대동보』 — 이동범·이재승 부자의 인물 기록
+URL: https://lsaru23-ai.github.io/hp-db-archive/rec-026.html · 네이버 원문: https://blog.naver.com/congcongyi/224483246191
+
+「128년의 기록과 보도」 · 기록 026
+**「128년의 기록과 보도」는 함평 이동범가와 관련된 옛 신문·관보·공문서와 기관 기록, 언론 보도를 원문(판독이 어려운 자료는 판독 가능한 부분)과 함께 소개하는 게시판입니다.**
+**각 글은 기록에서 확인되는 사실과 그 기록만으로는 확인할 수 없는 내용을 나누어 적습니다.**
+**분류** [사료] 인물록
+**자료 일자** 1913년 (『조선신사대동보』 간행 — 한국사DB 서지정보 기준, 원책 미확인)
+**원문 출처** 국사편찬위원회 한국사DB 「근현대인물자료」(조선신사대동보 수록 정보)
+**원면** [이동범 항목](https://db.history.go.kr/id/im_108_02446) · [이재승 항목](https://db.history.go.kr/id/im_108_03660) (DB 판독 정보. 원책 이미지는 아직 확보하지 못했습니다)
+
+### 이 기록은
+
+일제강점 초기에 각 지역 인사들의 이력을 모아 펴낸 인물록입니다. 이동범 선생과 장남 이재승 선생이 각각 실려 있습니다. 인물록의 성격상 내용은 본인이나 가족이 제공한 정보에 바탕을 두었을 가능성이 큽니다.
+
+### 원문 (DB 수록 정보, 발췌)
+
+이동범(李東範): 본관 咸平 · 생년월일 1869년 11월 13일 · 父 李弘奎(同中樞) · 縣監 號孝友堂 李慴 十七世孫 · 학력 漢文受學 · 관력 肇慶廟參奉 中樞院議官 正三品通政 · 인물평 萬頃 殷栗郡守 作宰廉直 蔚有遺愛
+이재승(李載昇): 본관 咸平 · 생년월일 1890년 10월 9일 · 父 李東範(通政) · 縣監 號孝友堂 李慴 十八世孫 · 학력 漢文受學 · 관력 … 咸平郡公立普通學校 學務委員
+
+### 현대어 풀이
+
+이동범: 함평 이씨. 1869년 11월 13일생. 아버지는 이홍규(동중추). 현감을 지낸 효우당 이습의 17세손. 한문을 배웠다. 관력은 조경묘 참봉, 중추원 의관, 정3품 통정대부. 인물평: "만경·은율 군수로 고을을 다스릴 때 청렴하고 곧아, 남긴 은덕이 많다."
+이재승: 함평 이씨. 1890년 10월 9일생. 아버지는 이동범(통정대부). 효우당 이습의 18세손. 한문을 배웠다. 함평군 공립보통학교 학무위원.
+
+### 기록에서 확인되는 사실
+
+1913년 무렵 이동범·이재승 부자가 당대 인물록에 함께 실렸습니다.
+이동범 선생 항목의 관력(조경묘 참봉·중추원 의관·정3품)은 대한제국 『관보』 기록과 대체로 맞습니다([기록 001](https://blog.naver.com/congcongyi/224480480847), 기록 007).
+아버지가 '李弘奎'로 적혀 있습니다. 『대동보』의 '이계송, 일명 홍규'와 함께, 이계송과 이홍규가 같은 분이라는 점을 뒷받침하는 당대 기록입니다([기록 023](https://blog.naver.com/congcongyi/224483257205)).
+이재승 선생은 함평군 공립보통학교 학무위원이었습니다.
+
+### 이 기록만으로 확인할 수 없는 것
+
+인물평 「作宰廉直 蔚有遺愛」의 객관성. 이것은 인물록에 실린 **평가 문구**이며, 관청의 근무 평가와 같은 독립된 근거로 볼 수는 없습니다. 이 글은 그런 문구가 실렸다는 사실만 소개합니다.
+'同中樞'의 정확한 뜻. 동지중추부사(종2품)의 줄임말로 보이지만 확정하지 않습니다. 이계송 선생의 묘비와 『대동보』에는 첨지중추부사(정3품) 계열로 적혀 있어, 서로 다른 시기의 직함인지는 확인이 필요합니다.
+정3품 승급의 날짜와 경위 (관보 기록은 확인 중)
+학무위원으로 재임한 기간과 활동 내용
+
+### 함께 볼 글
+
+연재 [제5편](https://blog.naver.com/congcongyi/224477304863) · [제6편 춘강 이재승](https://blog.naver.com/congcongyi/224477647467)
+『조선신사대동보』(1913, 한국사DB 서지정보 기준), 국사편찬위원회 한국사DB 근현대인물자료.
+---
+이 기록과 관련된 자료(옛 사진, 문서, 신문 스크랩 등)를 갖고 계신 분은 블로그 쪽지로 알려 주시면 감사하겠습니다. 전체 연표: [128년의 기록과 보도 — 연표](https://blog.naver.com/congcongyi/224480535151)
+
+## [Record 001] 1897 Official Gazette — Appointment and Resignation at Jogyeongmyo
+URL: https://lsaru23-ai.github.io/hp-db-archive/en/rec-001.html · 네이버 원문: https://blog.naver.com/congcongyi/224480488919
+
+「128년의 기록과 보도」 · 기록 001
+**"Historical Records & Media Coverage" presents period newspapers, official gazettes, documents, institutional records and press coverage related to the Lee Dong-beom family of Hampyeong, together with their original text (or, where a source is hard to read, the parts that can be read).**
+**Each entry separates what the record confirms from what it cannot confirm on its own.**
+**Category** [Primary source] Official Gazette (Gwanbo), issued by the Joseon government before the proclamation of the Korean Empire
+**Record dates** Appointed 28 Jun. 1897 (gazette 30 Jun.) · resigned 4 Jul. (gazette 6 Jul.)
+**Period covered** Late June – early July 1897
+**Source** National Institute of Korean History, Korean History Database, "Official Gazettes of Joseon and the Korean Empire"
+**Original** [No. 676](https://db.history.go.kr/modern/gb/level.do?levelId=gbdh_1897_06_30_a00676_00030) · [No. 681](https://db.history.go.kr/modern/gb/level.do?levelId=gbdh_1897_07_06_a00681_00080) · *Seungjeongwon Ilgi* (Royal Secretariat Diary), [Gojong 34/5/29](https://sjw.history.go.kr/id/SJW-K34050290-00400) and [6/5](https://sjw.history.go.kr/id/SJW-K34060050-00400) (page images viewable at the links)
+
+### About this record
+
+This is the earliest record found so far of a government post held by Seok-am Lee Dong-beom. June–July 1897 predates the proclamation of the Korean Empire (12 October 1897), so this gazette was issued by the Joseon government (the database collection is titled "Official Gazettes of Joseon and the Korean Empire").
+A 1917 Maeil Sinbo profile said he "began his official career as chambong (custodian) of Jogyeongmyo"; this gazette entry confirms it in a government record. Jogyeongmyo is the shrine in Jeonju dedicated to the progenitor of the Jeonju Yi lineage.
+
+### Original text (excerpt)
+
+[원면 설명 1] Gwanbo, No. 676 (30 Jun 1897), masthead on p. 1 (Source: National Institute of Korean History, Korean History Database)
+[원면 설명 2] Same issue, p. 3, excerpt of the appointment record (Source: Same as above)
+> No. 676, Appointments (entries of 23, 27 and 28 June): 任肇慶廟參奉敍判任官八等 李東範
+> No. 681, Appointments (entries of 2–4 July): 肇慶廟參奉 李東範 依願免本官
+> 任肇慶廟參奉李東範 (*Seungjeongwon Ilgi*, Gojong 34/5/29 lunar = 28 June 1897)
+> 肇慶廟參奉李東範, 依免 (6/5 lunar = 4 July 1897)
+
+### Translation
+
+No. 676: Lee Dong-beom is appointed chambong of Jogyeongmyo, ranked eighth grade of the panim (junior official) class.
+No. 681: Lee Dong-beom, chambong of Jogyeongmyo, is relieved of his post at his own request.
+
+### What the record confirms
+
+He was appointed *chambong* of Jogyeongmyo on **28 June 1897** and left the post at his own request on **4 July 1897**. Converted from the lunar calendar, the dates in the *Seungjeongwon Ilgi* match the appointment dates in the Official Gazette.
+This explains why a newspaper notice of 1899 calls him a "former chambong" ([Record 002](https://blog.naver.com/congcongyi/224480499448)).
+
+### What this record alone cannot confirm
+
+Whether he actually served at the shrine, or what his duties were
+Why he resigned so soon
+The year given in a 2003 survey report ("chambong in 1902"). The gazette shows 1897, and the report's year does not match other records.
+
+### Related posts
+
+Series [Part 5](https://lsaru23-ai.github.io/hp-db-archive/en/post5.html) · [Special Edition 1](https://lsaru23-ai.github.io/hp-db-archive/en/ex1.html)
+---
+Source**: **Gwanbo No. 676 (30 June 1897) and No. 681 (6 July 1897), Korean History Database. *Seungjeongwon Ilgi*, Gojong 34/5/29 and 6/5, NIKH database. ※ From 1895 these diaries were kept by the Biseowon (祕書院, Royal Secretariat Office). This entry follows the database's collection title, *Seungjeongwon Ilgi*.
+If you hold related materials (old photographs, documents, newspaper clippings), we would be grateful to hear from you by private message on this blog. Full timeline: [Historical Records & Media Coverage — Timeline](https://blog.naver.com/congcongyi/224480535151)
+
+## [Record 002] 1899 Hwangseong Sinmun — Notice of a Lost Seal by "Former Chambong Lee Dong-beom"
+URL: https://lsaru23-ai.github.io/hp-db-archive/en/rec-002.html · 네이버 원문: https://blog.naver.com/congcongyi/224480499448
+
+「128년의 기록과 보도」 · 기록 002
+**"Historical Records & Media Coverage" presents period newspapers, official gazettes, documents, institutional records and press coverage related to the Lee Dong-beom family of Hampyeong, together with their original text (or, where a source is hard to read, the parts that can be read).**
+**Each entry separates what the record confirms from what it cannot confirm on its own.**
+**Category** [Primary source] Newspaper notice
+**Record date** 23 August 1899, *Hwangseong Sinmun*, page 3
+**Event** Night of the 2nd day of the 7th lunar month, 1899 (seal lost)
+**Source** *Hwangseong Sinmun*, 23 August 1899, p. 3
+**Original** Page image included in series [Part 5](https://lsaru23-ai.github.io/hp-db-archive/en/post5.html); the newspaper can be viewed through the National Library of Korea newspaper archive
+
+### About this record
+
+This is the earliest newspaper record found so far that names Lee Dong-beom.
+It is a short notice published the year after Kim Koo's stay in Hampyeong.
+
+### Original text
+
+[원면 설명 1] Hwangseong Sinmun, 23 Aug 1899, excerpt of the original page (Source: Hwangseong Sinmun)
+> 廣告
+> 前參奉李東範氏가陰七月初二日夜에陰陽刻ᄒᆞᆫ姓名章을見失ᄒᆞ얏ᄉᆞ니
+> 該日븟터其圖章은施行치아니ᄒᆞᆷ
+> 李東範 白
+
+### Translation
+
+Notice. Mr. Lee Dong-beom, former *chambong*, lost his name seal, carved in both intaglio and relief, on the night of the 2nd day of the 7th lunar month.
+From that day the seal is no longer valid. — Announced by Lee Dong-beom.
+
+### What the record confirms
+
+In August 1899 Lee Dong-beom was referred to as a "former *chambong*" (前參奉).
+This matches the 1897 gazette record of his appointment and resignation ([Record 001](https://blog.naver.com/congcongyi/224480488919)).
+The notice was placed in his own name, signed "李東範 白" (announced by Lee Dong-beom).
+
+### What this record alone cannot confirm
+
+How or where the seal was lost
+Any connection with Kim Koo's 1898 stay (the notice does not mention it)
+It does not by itself prove that "Jinsa Lee" in *Baekbeom Ilji* was Lee Dong-beom.
+
+### Related posts
+
+Series [Part 5](https://lsaru23-ai.github.io/hp-db-archive/en/post5.html) · [Part 1](https://lsaru23-ai.github.io/hp-db-archive/en/post1.html)
+---
+Source**: ***Hwangseong Sinmun*, 23 August 1899, p. 3, notice.
+If you hold related materials (old photographs, documents, newspaper clippings), we would be grateful to hear from you by private message on this blog. Full timeline: [Historical Records & Media Coverage — Timeline](https://blog.naver.com/congcongyi/224480535151)
+
+## [Record 008] 1923 Dong-A Ilbo — Hampyeong Industrial Cooperative & the People's University Movement
+URL: https://lsaru23-ai.github.io/hp-db-archive/en/rec-008.html · 네이버 원문: https://blog.naver.com/congcongyi/224480526816
+
+「128년의 기록과 보도」 · 기록 008
+**"Historical Records & Media Coverage" presents period newspapers, official gazettes, documents, institutional records and press coverage related to the Lee Dong-beom family of Hampyeong, together with their original text (or, where a source is hard to read, the parts that can be read).**
+**Each entry separates what the record confirms from what it cannot confirm on its own.**
+**Category** [Primary source] Two newspaper reports
+**Record dates** (1) 5 August 1923 · (2) 15 December 1923, *Dong-A Ilbo*
+**Events** (1) General meeting, 24 July 1923 · (2) Founding meeting, 10 December 1923
+**Original** Page images included in series [Part 6](https://lsaru23-ai.github.io/hp-db-archive/en/post6.html); the newspaper can be viewed through the Dong-A Ilbo archive and Naver News Library
+
+### About this record
+
+Two 1923 reports in the *Dong-A Ilbo* showing the roles held by Lee Dong-beom's two sons, Lee Jae-seung and Lee Jae-hyeok, in local organizations in Hampyeong.
+
+### Original text (1): "咸平興産組合總會" (5 Aug. 1923)
+
+[원면 설명 1] Dong-A Ilbo, 5 Aug 1923, excerpt of the original page (Source: Dong-A Ilbo)
+> 全南咸平郡興産組合에서는去月二十四日下午四時咸平公立普通學校內에서
+> 第三回定期總會를專務理事李載爀氏開會辭로開하고諸般報告와決議가有한後
+> 滿期任員을改選하얏는데그決議와改選된任員은如左하더라
+> 一、第三回營業報告、貸借對照表、財産目錄及損益計算書承認의件
+> 一、定款改正의件 …
+> 組合長 李載昇　專務理事 李載爀 … (remaining officers partly legible)
+
+### Original text (2): "民大咸平郡部 盛況裏에組織" (15 Dec. 1923)
+
+[원면 설명 2] Dong-A Ilbo, 15 Dec 1923, excerpt of the original page (Source: Dong-A Ilbo)
+> 咸平에서는今般民大中央部執行委員李甲成白南震兩氏가當地에出張함을機會로
+> 咸平靑年會主催로去十日午後八時에靑年會館內에서咸平郡地方部組織大講演會를
+> 開催하얏는대會衆은數百名에達하야大盛況裡에靑年會長李載爀氏開會辭로
+> 李甲成氏의趣旨說明에滿場人士는無限感動되야卽席에서咸平郡部組織을一致可決한後
+> 執行委員長을投票한바李載爀氏가當選되고 … 咸平郡守吳光殷氏의祝辭가잇고 …
+> 被選된委員은執行委員長李載爀　常務委員□□□外九人　保管委員李載昇外一人
+> 監査委員李吉範外二人 …
+
+### Summary translation
+
+(1) The Hampyeong Industrial Cooperative held its third regular general meeting at 4 p.m. on 24 July at Hampyeong Public Common School. Managing director Lee Jae-hyeok opened the meeting, the business report was approved, the articles were amended, and officers were elected. Lee Jae-seung was chairman and Lee Jae-hyeok managing director.
+(2) When Yi Gap-seong and Baek Nam-jin, executive members of the central body of the movement to found a People's University (Minnip Daehak), visited Hampyeong, the Hampyeong Youth Association held a lecture meeting (8 p.m., 10 December, at the Youth Hall) that voted to establish a Hampyeong County branch. Youth Association president Lee Jae-hyeok opened the meeting and was elected chair of the executive committee; Lee Jae-seung was elected a custodian (保管委員).
+
+### What the record confirms
+
+In 1923 Lee Jae-seung chaired the Hampyeong Industrial Cooperative, and Lee Jae-hyeok was its managing director.
+In the same year Lee Jae-hyeok was elected chair of the executive committee, and Lee Jae-seung a custodian, of the Hampyeong County branch of the People's University movement. Lee Jae-hyeok was also president of the Hampyeong Youth Association.
+Newspapers of the time wrote Lee Jae-hyeok's name as 李載爀.
+
+### What this record alone cannot confirm
+
+What the brothers actually did in these bodies, and for how long
+Whether these activities count as part of the independence movement (the reports cover only the founding of the organizations)
+The full list of officers in report (1) (partly legible)
+
+### Related posts
+
+Series [Part 6](https://lsaru23-ai.github.io/hp-db-archive/en/post6.html)
+---
+Sources**: ***Dong-A Ilbo*, 5 August 1923, "咸平興産組合總會"; 15 December 1923, "民大咸平郡部 盛況裏에組織".
+If you hold related materials (old photographs, documents, newspaper clippings), we would be grateful to hear from you by private message on this blog. Full timeline: [Historical Records & Media Coverage — Timeline](https://blog.naver.com/congcongyi/224480535151)
+
+## [Record 009] 1925 Hampyeong Heungsan Co., Ltd. — Maeil Sinbo Report and Company Registration
+URL: https://lsaru23-ai.github.io/hp-db-archive/en/rec-009.html · 네이버 원문: https://blog.naver.com/congcongyi/224480530525
+
+「128년의 기록과 보도」 · 기록 009
+**"Historical Records & Media Coverage" presents period newspapers, official gazettes, documents, institutional records and press coverage related to the Lee Dong-beom family of Hampyeong, together with their original text (or, where a source is hard to read, the parts that can be read).**
+**Each entry separates what the record confirms from what it cannot confirm on its own.**
+**Category** [Primary source] Newspaper report + gazette registration notice
+**Record dates** 24 October 1925, *Maeil Sinbo* · 4 December 1925, *Official Gazette of the Government-General of Korea* No. 3988
+**Period covered** Cooperative founded 1920 (as reported) → company established 3 Oct. 1925, registered 12 Oct. 1925 (gazette)
+**Original** *Maeil Sinbo* page image in series [Part 6](https://lsaru23-ai.github.io/hp-db-archive/en/post6.html); gazette: [Korean History Database, No. 3988 commercial registration](https://db.history.go.kr/modern/gb/level.do?levelId=gb_1925_12_04_a39880_0390)
+
+### About this record
+
+This record shows how the Hampyeong Industrial Cooperative of [Record 008](https://blog.naver.com/congcongyi/224480526816) became a joint-stock company in 1925.
+
+### Original text: "咸平에 有望한 興産株式會社 萬無一失을 自期" (***Maeil Sinbo***, 24 Oct. 1925)
+
+[원면 설명 1] Maeil Sinbo, 24 Oct 1925, excerpt of the original page (Source: Maeil Sinbo)
+[원면 설명 2] [Excerpt 1] Opening portion of a “Foundation of a Stock Company” (株式會社設立) notice in the commercial registration section of the Official Gazette of the Government-General of Korea No. 3988, 4 December 1925. Reading right to left: trade name (商號), head office (本店), purpose (目的), capital (資本ノ總額, 80,000 won), par value per share, amount paid in, method of public notice, date of foundation (3 October 1925) and term of existence. This is a cropped excerpt of the original vertical Japanese text; the officers’ “name and address” (氏名住所) column is not included. — Source: Official Gazette of the Government-General of Korea No. 3988, 4 December 1925.
+[원면 설명 3] [Excerpt 2] Officers and registration portion of the same notice. Under “Names and addresses of auditors” (監査役ノ氏名住所) appear the names of three auditors, and under “Names and addresses of directors” (取締役ノ氏名住所) those of four directors; to the left are the director to represent the company (會社ヲ代表スヘキ取締役ノ氏名 — one of the directors, listed once more here), the registration date (registered 12 October 1925) and the registry office (Kwangju District Court, Hampyeong Branch Office). All address and lot-number (番地) text attached to the names has been removed so that it is not published. Cropped excerpt of the original vertical Japanese text. — Source: Official Gazette of the Government-General of Korea No. 3988, 4 December 1925.
+> 全南咸平郡興産株式會社는大正九年度에該郡有力者李載爀張志文氏外諸氏의發起로
+> 興産組合을組織하야今日까지營業을繼續한바意外에好成績을得하야相當한利益을
+> 配當한고로一般組合員은一層奮鬪하야資金八萬圓의株式會社로變更하야十月十六日에
+> 登記手續까지終了된고로業務를一層擴張하는中이라는데 …
+> 營業의目的은精米、繰綿을主로하고更히諸般農産物을取扱한다하며役員은左와如하다더라(木浦)
+> 社長兼專務取締役李載爀▲取締役張志文▲同金琮泰▲同申鉉麟(?)▲監査役李亨己▲同李啓攻(?)
+> ▲同韓圭興▲相談役李載昇　同金東昕
+
+### Summary translation (the article's account)
+
+Hampyeong Heungsan Co. began as an industrial cooperative founded in 1920 (Taishō 9) at the initiative of Lee Jae-hyeok, Jang Ji-mun and others. Its results were good enough to pay dividends, and it was reorganized as a joint-stock company with capital of 80,000 won, completing registration on 16 October.
+Its main business was rice milling and cotton ginning, along with other farm produce. Officers included Lee Jae-hyeok as president and managing director, and Lee Jae-seung as adviser (相談役).
+
+### What the record confirms
+
+According to the *Maeil Sinbo*, the cooperative was founded in 1920 at the initiative of Lee Jae-hyeok and others, and completed registration as a joint-stock company with capital of 80,000 won on 16 October 1925.
+The commercial registration page in *Official Gazette* No. 3988 (published 4 Dec. 1925) gives the company's date of establishment as 3 October 1925 and its date of registration as 12 October 1925.
+The *Maeil Sinbo* reported registration as "completed on 16 October," which differs from the gazette's registration date (12 October). These two sources alone do not show whether the newspaper referred to a different procedural step or simply reported a different date. This entry gives the gazette's dates as the official registration record and the newspaper's date as contemporary reporting.
+According to the *Maeil Sinbo*, Lee Jae-hyeok was president and managing director and Lee Jae-seung was an adviser.
+The company's registration appears in the Government-General's *Official Gazette* No. 3988 (published 4 Dec. 1925). The registered officers listed there do not include advisers, so Lee Jae-seung's adviser title is confirmed only by the newspaper (series Part 6).
+
+### What this record alone cannot confirm
+
+The company's actual performance and how long it lasted
+What each officer actually did
+Why the newspaper's "16 October" differs from the gazette's registration date of 12 October
+A full transcription of the gazette registration (this entry gives only the dates of establishment and registration)
+The 1920 founding year (currently attested only by the 1925 newspaper report)
+
+### Related posts
+
+Series [Part 6](https://lsaru23-ai.github.io/hp-db-archive/en/post6.html) · [Record 008](https://blog.naver.com/congcongyi/224480526816)
+---
+Sources**: ***Maeil Sinbo***, 24 October 1925; **[Official Gazette of the Government-General of Korea No. 3988 (4 December 1925), commercial registration](https://db.history.go.kr/modern/gb/level.do?levelId=gb_1925_12_04_a39880_0390), Korean History Database.
+If you hold related materials (old photographs, documents, newspaper clippings), we would be grateful to hear from you by private message on this blog. Full timeline: [Historical Records & Media Coverage — Timeline](https://blog.naver.com/congcongyi/224480535151)
+
+## [Record 011] 1938 Dong-A Ilbo — "Chun-gang Lee Jae-seung, Faithful to the Old Ways"
+URL: https://lsaru23-ai.github.io/hp-db-archive/en/rec-011.html · 네이버 원문: https://blog.naver.com/congcongyi/224480533565
+
+「128년의 기록과 보도」 · 기록 011
+**"Historical Records & Media Coverage" presents period newspapers, official gazettes, documents, institutional records and press coverage related to the Lee Dong-beom family of Hampyeong, together with their original text (or, where a source is hard to read, the parts that can be read).**
+**Each entry separates what the record confirms from what it cannot confirm on its own.**
+**Category** [Primary source] Newspaper profile
+**Record date** 4 October 1938, *Dong-A Ilbo* (Hampyeong feature page)
+**Original** Page image in series [Part 6](https://lsaru23-ai.github.io/hp-db-archive/en/post6.html); the newspaper can be viewed through the Dong-A Ilbo archive and Naver News Library
+
+### About this record
+
+A stand-alone profile of Lee Dong-beom's eldest son, Chun-gang Lee Jae-seung, printed with his photograph.
+The headline means "Mr. Chun-gang Lee Jae-seung, faithful to the old ways."
+
+### Original text (partial)
+
+[원면 설명 1] Dong-A Ilbo, 4 Oct 1938, excerpt of the original page (Source: Dong-A Ilbo)
+> 古道에充實
+> 春崗 李載昇氏
+> 咸平面長을□하신(?) 明哲한氏는 度量無限하고 用心周到하고 萬事
+> 整然하고 正心바로 그것이다. 前年에 氏의 箕山農場小作人組合에
+> 自手勞力하야 … (remainder being transcribed)
+
+### Translation (legible part)
+
+Mr. Chun-gang Lee Jae-seung, faithful to the old ways. (A phrase concerning the head of Hampyeong township — reading and meaning uncertain.) He is wise and broad-minded, thorough in his care, orderly in all matters and upright of heart.
+Last year (?) he personally lent his efforts to the tenant farmers' union of his Gisan Farm …
+
+### What the record confirms
+
+In October 1938 the *Dong-A Ilbo* featured Lee Jae-seung in a profile of his own on its Hampyeong page.
+The headline writes his pen name as 春崗. Some family materials write it 春岡; the two spellings are kept on record separately, and neither is treated as an error.
+The article contains the phrase 咸平面長 (head of Hampyeong township) and a passage on the Gisan Farm tenant farmers' union.
+
+### What this record alone cannot confirm
+
+Whether, when and for how long he served as township head (the reading and meaning of the passage around 咸平面長 are uncertain; also left open in series Part 6)
+The correct characters of his pen name (春崗 / 春岡)
+His role in the tenant farmers' union and what it actually did
+The full text of the article (partly transcribed)
+
+### Related posts
+
+Series [Part 6](https://lsaru23-ai.github.io/hp-db-archive/en/post6.html)
+---
+Source**: ***Dong-A Ilbo*, 4 October 1938, "古道에 充實 春崗 李載昇氏".
+If you hold related materials (old photographs, documents, newspaper clippings), we would be grateful to hear from you by private message on this blog. Full timeline: [Historical Records & Media Coverage — Timeline](https://blog.naver.com/congcongyi/224480535151)
+
+## [Record 023] 1877 Seungjeongwon Ilgi — Relief Funds from Lee Hong-gyu, Former Owijang of Hampyeong
+URL: https://lsaru23-ai.github.io/hp-db-archive/en/rec-023.html · 네이버 원문: https://blog.naver.com/congcongyi/224483259069
+
+「128년의 기록과 보도」 · 기록 023
+**“Historical Records & Media Coverage” presents period newspapers, official gazettes, documents, institutional records and press coverage related to the Lee Dong-beom family of Hampyeong, together with their original text (or, where a source is hard to read, the parts that can be read).**
+**Each entry separates what the record confirms from what it cannot confirm on its own.**
+**Category** [Primary source] *Seungjeongwon Ilgi* (Royal Secretariat Diary)
+**Record date** Gojong 14/8/21 (lunar) = 27 September 1877
+**Related entries** Gojong 8 (1871) 9/13 and 9/21; Gojong 20 (1883) 5/3
+**Source** National Institute of Korean History, *Seungjeongwon Ilgi* database; original images at Kyujanggak Institute, Seoul National University
+**Original** [Entry of Gojong 14/8/21](https://sjw.history.go.kr/id/SJW-K14080210-01700) (page image via the "Kyujanggak original" link)
+
+### About this record
+
+Lee Gye-song (李啓松), father of Seok-am Lee Dong-beom, is also recorded in the *Hampyeong Lee Clan Comprehensive Genealogy* under another name, Hong-gyu (弘奎). The *Seungjeongwon Ilgi* for 1877 lists "Lee Hong-gyu, former *owijang* of Hampyeong" (咸平前五衛將李弘奎) among those who contributed 1,500 *nyang* toward famine relief. The entry is a proposal by the Ministry of Personnel to reward voluntary contributors (願納人), based on the report and roll submitted by Yi Don-sang, Governor of Jeolla Province, on completing the relief.
+
+### Original text (excerpt)
+
+> 各邑願納人中 … 咸平前五衛將李弘奎, 金堤前五衛將金光栢, 各錢一千五百兩,
+> 上項二人, 施以相當職調用。
+
+### Translation
+
+Among the voluntary contributors of the counties … Lee Hong-gyu, former *owijang* of Hampyeong, and Kim Gwang-baek, former *owijang* of Gimje, each gave 1,500 *nyang*; it is proposed that these two be employed in suitable posts.
+
+### Other entries under the same name (***Seungjeongwon Ilgi***) — whether this is the same man as in the 1877 entry remains to be verified
+
+9/13/1871 (lunar; 26 Oct.): appointed *owijang* (李弘奎爲五衛將); in a later round, listed as sole nominee for *cheomji jungchubusa* (僉知單李弘奎)
+9/21/1871 (lunar): *owijang* Lee Hong-gyu and others replaced on grounds of illness
+1873–1874: repeated appointments as *owijang* and replacements on grounds of illness
+5/3/1883 (lunar; 7 June): named on a list of additional *owijang* appointments (五衛將加設單)
+
+### What the record confirms
+
+A government record shows that "Lee Hong-gyu, former *owijang* of Hampyeong" contributed 1,500 *nyang* to famine relief in 1877. On the original page image, the name, place and amount match the database transcription.
+The Ministry of Personnel proposed employing him in a suitable post in recognition.
+He had already served as *owijang* before 1877 ("former *owijang*").
+
+### What this record alone cannot confirm
+
+Whether he was **actually appointed** to a post as proposed (the entry records only the proposal)
+What 1,500 *nyang* amounted to at the time, or how it was paid
+Whether the Lee Hong-gyu of the 1871, 1873 and 1883 entries is the same man; those entries give no place of origin. The grounds for treating them as the same person are the 1877 entry ("former *owijang* of Hampyeong"), the genealogy's "also named Hong-gyu" and its note of a military *cheomchu* title in 1871, and the 1913 *Joseon Sinsa Daedongbo* entry for Lee Dong-beom giving his father as "李弘奎 (同中樞)" ([Record 026](https://blog.naver.com/congcongyi/224483254565)).
+Whether the posts of *owijang* and *cheomji jungchubusa* involved actual duties or were largely honorary
+
+### Related posts
+
+Series [Special Edition 1](https://lsaru23-ai.github.io/hp-db-archive/en/ex1.html) · [Part 5](https://lsaru23-ai.github.io/hp-db-archive/en/post5.html)
+
+### Sources
+
+*Seungjeongwon Ilgi*, Gojong 14/8/21; Gojong 8/9/13 and 9/21; Gojong 10/1/13 and 12/27; Gojong 11/1/7; Gojong 20/5/3. NIKH *Seungjeongwon Ilgi* database; Kyujanggak Institute originals.
+---
+If you hold related materials (old photographs, documents, newspaper clippings), we would be grateful to hear from you by private message on this blog. Full timeline: [Historical Records & Media Coverage — Timeline](https://blog.naver.com/congcongyi/224480535151)
+
+## [Record 024] 1891 Seungjeongwon Ilgi — A Posthumous Title for Filial Piety: Lee Gyeong-heon
+URL: https://lsaru23-ai.github.io/hp-db-archive/en/rec-024.html · 네이버 원문: https://blog.naver.com/congcongyi/224483239443
+
+「128년의 기록과 보도」 · 기록 024
+**“Historical Records & Media Coverage” presents period newspapers, official gazettes, documents, institutional records and press coverage related to the Lee Dong-beom family of Hampyeong, together with their original text (or, where a source is hard to read, the parts that can be read).**
+**Each entry separates what the record confirms from what it cannot confirm on its own.**
+**Category** [Primary source] *Seungjeongwon Ilgi*
+**Record date** Gojong 27/12/23 (lunar) = 1 February 1891
+**Source** NIKH *Seungjeongwon Ilgi* database; original images at Kyujanggak Institute, Seoul National University
+**Original** [Entry of Gojong 27/12/23](https://sjw.history.go.kr/id/SJW-K27120230-01600) (page image via the "Kyujanggak original" link)
+
+### About this record
+
+This is the record of a posthumous office granted to Lee Gyeong-heon (李警憲, 1825–1855), grandfather of Seok-am Lee Dong-beom. The *Hampyeong Lee Clan Comprehensive Genealogy* notes "*gyogwan*" (敎官) under his name; this government record is its source.
+
+### Original text (excerpt)
+
+> 故學生李警憲, 贈童蒙敎官, 孝行卓異贈職事, 承傳。
+
+### Translation
+
+The late Lee Gyeong-heon, *haksaeng* (a scholar without office), is posthumously appointed *dongmong gyogwan* (instructor of youth); the royal order to grant this posthumous office for his outstanding filial piety is hereby transmitted.
+
+### What the record confirms
+
+In 1891 (12th lunar month of 1890) the court posthumously granted Lee Gyeong-heon the title of *dongmong gyogwan*, for "outstanding filial piety" (孝行卓異).
+The record describes him as *haksaeng*, a term for a scholar without office; this record alone does not settle his whole life history.
+The genealogy's "*gyogwan*" appears to refer to this posthumous title.
+
+### What this record alone cannot confirm
+
+What his filial conduct consisted of
+Who petitioned for the title (it came about 35 years after his death)
+The basis for the genealogy's additional entry "*jobong daebu*" (朝奉大夫, a junior fourth-rank grade), or how it relates to the title of *dongmong gyogwan*
+
+### Related posts
+
+Series [Special Edition 1](https://lsaru23-ai.github.io/hp-db-archive/en/ex1.html)
+*Seungjeongwon Ilgi*, Gojong 27/12/23. NIKH *Seungjeongwon Ilgi* database; Kyujanggak Institute originals.
+---
+If you hold related materials (old photographs, documents, newspaper clippings), we would be grateful to hear from you by private message on this blog. Full timeline: [Historical Records & Media Coverage — Timeline](https://blog.naver.com/congcongyi/224480535151)
+
+## [Record 026] 1913 Joseon Sinsa Daedongbo — Entries for Lee Dong-beom and His Son Lee Jae-seung
+URL: https://lsaru23-ai.github.io/hp-db-archive/en/rec-026.html · 네이버 원문: https://blog.naver.com/congcongyi/224483254565
+
+「128년의 기록과 보도」 · 기록 026
+**“Historical Records & Media Coverage” presents period newspapers, official gazettes, documents, institutional records and press coverage related to the Lee Dong-beom family of Hampyeong, together with their original text (or, where a source is hard to read, the parts that can be read).**
+**Each entry separates what the record confirms from what it cannot confirm on its own.**
+**Category** [Primary source] Biographical directory
+**Record date** 1913 (*Joseon Sinsa Daedongbo*, "Comprehensive Register of Korean Gentlemen"; per the database's bibliographic data — original volume not yet examined)
+**Source** NIKH Korean History Database, "Modern Biographical Materials" (data from the *Joseon Sinsa Daedongbo*)
+**Original** [Lee Dong-beom](https://db.history.go.kr/id/im_108_02446) · [Lee Jae-seung](https://db.history.go.kr/id/im_108_03660) (database transcription; page images of the book not yet obtained)
+
+### About this record
+
+A directory compiling the careers of local notables, published early in the colonial period. It contains separate entries for Lee Dong-beom and his eldest son, Lee Jae-seung. As with most such directories, the information was probably supplied by the subjects or their families.
+
+### Original (database entries, excerpt)
+
+Lee Dong-beom (李東範): clan seat Hampyeong · born 13 Nov. 1869 · father 李弘奎(同中樞) · 縣監 號孝友堂 李慴 十七世孫 · education 漢文受學 · career 肇慶廟參奉 中樞院議官 正三品通政 · assessment 萬頃 殷栗郡守 作宰廉直 蔚有遺愛
+Lee Jae-seung (李載昇): clan seat Hampyeong · born 9 Oct. 1890 · father 李東範(通政) · 縣監 號孝友堂 李慴 十八世孫 · education 漢文受學 · career … 咸平郡公立普通學校 學務委員
+
+### Translation
+
+Lee Dong-beom: of the Hampyeong Lee clan, born 13 November 1869; father Lee Hong-gyu (*dongjungchu*); seventeenth-generation descendant of Lee Seup (pen name Hyowudang), a former county magistrate; educated in classical Chinese. Career: *chambong* of Jogyeongmyo, councillor of the Jungchuwon, senior third rank (*tongjeong daebu*). Assessment: "As magistrate of Mangyeong and Eunyul he governed with integrity and left many fond memories."
+Lee Jae-seung: of the Hampyeong Lee clan, born 9 October 1890; father Lee Dong-beom (*tongjeong*); eighteenth-generation descendant of Lee Seup; educated in classical Chinese. School affairs commissioner (學務委員) of Hampyeong County Public Common School.
+
+### What the record confirms
+
+Around 1913 Lee Dong-beom and Lee Jae-seung were both listed in a contemporary biographical directory.
+Lee Dong-beom's listed career (Jogyeongmyo *chambong*, Jungchuwon councillor, senior third rank) broadly matches the Official Gazette ([Record 001](https://blog.naver.com/congcongyi/224480488919), Record 007).
+His father is given as "李弘奎." Together with the genealogy's "Lee Gye-song, also named Hong-gyu," this is a contemporary record supporting that Lee Gye-song and Lee Hong-gyu were the same person ([Record 023](https://blog.naver.com/congcongyi/224483259069)).
+Lee Jae-seung served as a school affairs commissioner of Hampyeong County Public Common School.
+
+### What this record alone cannot confirm
+
+The objectivity of the assessment "作宰廉直 蔚有遺愛." It is an **evaluative phrase printed in the directory**, not an independent official performance record; this entry reports only that the phrase appears.
+The exact meaning of "同中樞." It appears to abbreviate *dongji jungchubusa* (junior second rank), but this is not confirmed. His gravestone and the genealogy record a *cheomji jungchubusa* (senior third rank) title; whether these reflect different periods needs checking.
+The date and circumstances of the promotion to the senior third rank (the gazette record is still being checked)
+How long Lee Jae-seung served as commissioner, or what he did
+
+### Related posts
+
+Series [Part 5](https://lsaru23-ai.github.io/hp-db-archive/en/post5.html) · [Part 6](https://lsaru23-ai.github.io/hp-db-archive/en/post6.html)
+*Joseon Sinsa Daedongbo* (1913, per database bibliographic data), NIKH Korean History Database, Modern Biographical Materials.
+---
+If you hold related materials (old photographs, documents, newspaper clippings), we would be grateful to hear from you by private message on this blog. Full timeline: [Historical Records & Media Coverage — Timeline](https://blog.naver.com/congcongyi/224480535151)
+
+## 128년의 기록과 보도 — 연표 | Historical Records & Media Coverage — Timeline
+URL: https://lsaru23-ai.github.io/hp-db-archive/records.html · 네이버 원문: https://blog.naver.com/congcongyi/224480535151
+
+「128년의 기록과 보도」 · 연표
+함평 이동범가와 관련된 기록을 **자료가 만들어진 날짜 순서**로 모았습니다. 기록 번호(REC)는 게시 순서나 연대순과 상관없이 각 기록에 고정으로 붙는 식별번호입니다.
+Records related to the Lee Dong-beom family of Hampyeong, listed by the date each record was made. Record numbers (REC) are permanent identifiers and follow neither posting order nor strict chronology.
+**1877. 9. 27 (음 8. 21)**
+사료 / Primary · 『승정원일기』 함평 전 오위장 이홍규의 진휼 출연 / *Seungjeongwon Ilgi*: relief funds from Lee Hong-gyu · [REC-023-KR](https://blog.naver.com/congcongyi/224483257205) · [REC-023-EN](https://blog.naver.com/congcongyi/224483259069)
+**1891. 2. 1 (음 1890. 12. 23)**
+사료 / Primary · 『승정원일기』 이경헌 효행 증직 / *Seungjeongwon Ilgi*: posthumous title for Lee Gyeong-heon · [REC-024-KR](https://blog.naver.com/congcongyi/224483231788) · [REC-024-EN](https://blog.naver.com/congcongyi/224483239443)
+**임명 1897. 6. 28 (관보 6. 30) · 의원면 7. 4 (관보 7. 6)**
+사료 / Primary · 『관보』 조경묘 참봉 임명과 사임 / Official Gazette: appointment and resignation at Jogyeongmyo · [REC-001-KR](https://blog.naver.com/congcongyi/224480480847) · [REC-001-EN](https://blog.naver.com/congcongyi/224480488919)
+**1899. 8. 23**
+사료 / Primary · 『황성신문』 도장 분실 광고 / Hwangseong Sinmun: notice of a lost seal · [REC-002-KR](https://blog.naver.com/congcongyi/224480494312) · [REC-002-EN](https://blog.naver.com/congcongyi/224480499448)
+**1913**
+사료 / Primary · 『조선신사대동보』 이동범·이재승 / *Joseon Sinsa Daedongbo*: Lee Dong-beom and Lee Jae-seung · [REC-026-KR](https://blog.naver.com/congcongyi/224483246191) · [REC-026-EN](https://blog.naver.com/congcongyi/224483254565)
+**1923. 8. 5 · 12. 15**
+사료 / Primary · 『동아일보』 함평흥산조합·민립대학 함평군부 / Dong-A Ilbo: industrial cooperative and People's University branch · [REC-008-KR](https://blog.naver.com/congcongyi/224480524449) · [REC-008-EN](https://blog.naver.com/congcongyi/224480526816)
+**1925. 10. 24 · 12. 4**
+사료 / Primary · 함평흥산주식회사 기사·설립등기 / Hampyeong Heungsan Co.: report and registration · [REC-009-KR](https://blog.naver.com/congcongyi/224480528862) · [REC-009-EN](https://blog.naver.com/congcongyi/224480530525)
+**1938. 10. 4**
+사료 / Primary · 『동아일보』 「古道에 充實 春崗 李載昇氏」 / Dong-A Ilbo profile of Lee Jae-seung · [REC-011-KR](https://blog.naver.com/congcongyi/224480531941) · [REC-011-EN](https://blog.naver.com/congcongyi/224480533565)
+> 기록 번호(REC)는 전체 기록 목록에서 부여한 고정 식별번호이며, 반드시 연대순을 뜻하지는 않습니다. 검증을 마친 기록부터 공개하므로 번호가 건너뛸 수 있습니다. 이 연표는 기록이 작성·발행된 날짜를 기준으로 정렬합니다.
+> Record numbers (REC) are fixed identifiers assigned in the overall list of records and do not necessarily indicate chronological order. Because records are published only once verified, numbers may skip. This timeline is sorted by the date each record was written or published.
+> 앞으로 추가될 기록(1902~1904 관보, 1909년 경찰 기록, 1930년 신문, 『백범일지』, 기관 기록, 언론 보도)은 검증을 마친 뒤 날짜 순서에 맞춰 이 표에 넣습니다. 연표 표시 순서는 자료 일자 기준입니다. 예를 들어 1947년 6월 「光明」은 같은 해 12월 『백범일지』 초판보다 앞에, 2002년 보도는 2003년 조사보고서보다 앞에 놓입니다.
+> Further records will be added in date order after verification.
+---
+**함께 보기 / See also**: [역사 연재 국·영문 통합 목차](https://blog.naver.com/congcongyi/224479180682) · [공개 아카이브](https://lsaru23-ai.github.io/hp-db-archive/)
