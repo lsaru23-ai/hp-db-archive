@@ -681,12 +681,13 @@ URL: https://lsaru23-ai.github.io/hp-db-archive/ex1.html · 네이버 원문: ht
 
 ### 3. 7대조 이돈화 선생 — 다경진 만호
 이돈화(1797~1860) 선생의 자는 자정(子貞)입니다. 족보의 이돈화 선생 항목에는 1856년 ‘다경진 만호(多慶鎭萬戶)’라는 관력이 적혀 있습니다. 만호(萬戶)는 조선시대 무관직의 하나입니다.
-다만 족보의 관직 기재와 실제 임명·재임은 구별해야 합니다. 이돈화 선생이 실제로 언제 임명되어 얼마나 재임했는지는 『승정원일기』나 『일성록』 같은 조정 기록과 아직 대조하지 못했습니다. 족보에는 이돈화 선생의 묘갈을 증손인 군수 이동범 선생이 지었다고도 적혀 있습니다.
-한편 가족에 따르면 이돈화 선생과 관련된 교지가 현재 함평 종가에 보관되어 있다고 합니다. 아직 실물을 직접 대조하지 못했으므로, 교지의 발급 시기와 내용, 족보의 관직 기록과의 관계는 추후 확인할 예정입니다.
+다만 족보의 관직 기재와 실제 임명·재임은 구별해야 합니다. 이돈화 선생이 실제로 언제 임명되어 얼마나 재임했는지는 『승정원일기』나 『일성록』 같은 조정 기록과 아직 대조하지 못했습니다. 족보에는 이돈화 선생의 묘갈을 손자 이계송 선생이 짓고, 증손인 군수 이동범 선생이 비각을 세웠다고도 적혀 있습니다.
+한편 이돈화 선생과 관련된 고문서가 현재 함평 종가에 보관되어 있습니다. 문서의 내용과 족보의 관직 기록과의 관계는 정리되는 대로 소개하겠습니다.
 
 ### 4. 6대조 이경헌 선생 — 조봉대부와 교관
 이경헌(1825~1855) 선생의 자는 인범(仁凡)입니다. 항목에는 ‘조봉대부(朝奉大夫)’와 ‘교관(敎官)’이 적혀 있습니다. 조봉대부는 문관 종4품의 품계입니다.
 이 역시 족보에 적힌 기록입니다. 실제로 받은 품계인지, 뒤에 추증된 것인지, 어느 고을에서 교관을 지냈는지는 추가 검증이 필요합니다.
+이후 확인한 『승정원일기』에는 1891년 이경헌 선생이 효행으로 동몽교관에 추증된 기록이 있습니다([기록 024](https://blog.naver.com/congcongyi/224483231788)). 족보의 '교관'이 이 추증만을 가리키는지는 계속 확인하겠습니다.
 
 ### 5. 무안 운남면에 모신 두 분
 『함평이씨대동보』에는 이돈화 선생과 이경헌 선생의 묘소가 무안에 있는 것으로 기록되어 있습니다. 두 분의 묘소는 지금도 현재의 전라남도 무안군 운남면에 있고, 저희 가족이 그 묘소를 직접 확인했습니다.
@@ -706,7 +707,7 @@ URL: https://lsaru23-ai.github.io/hp-db-archive/ex1.html · 네이버 원문: ht
 또 하나 분명히 해 둘 점이 있습니다. 오래된 관직 기록과 후대의 토지 소유나 재산 규모는 서로 별개의 증거여서, 관직 이력이 곧 3천 석의 근거가 되는 것은 아닙니다. 선대 어르신들의 관직 기록은 집안의 이력을 살펴볼 단서로 소개할 뿐, 재산 규모를 증명하는 자료로 쓰지 않겠습니다.
 
 ### 9. 남은 질문들
-정리하면서 확인할 일도 분명해졌습니다. 이돈화 선생의 다경진 만호 임명 기록과 종가에 전하는 교지의 내용, 이경헌 선생의 품계와 교관 재임지, 이계송 선생의 무첨추 기록과 비석 뒷면 명문의 판독, 그리고 무안 운남면 두 묘소의 비문과 족보 기재의 대조입니다.
+정리하면서 확인할 일도 분명해졌습니다. 이돈화 선생의 다경진 만호 임명 기록과 종가에 전하는 고문서의 내용, 이경헌 선생의 품계, 그리고 족보의 교관 기재와 1891년 추증의 관계, 이계송 선생의 무첨추 기록과 비석 뒷면 명문의 판독, 그리고 무안 운남면 두 묘소의 비문과 족보 기재의 대조입니다.
 **족보와 비석에 남은 이름을 하나씩 당대의 기록과 맞춰 보며, 확인되는 만큼 이어서 적어 두겠습니다.**
 다음 번외편에서는 석암 이동범가의 여성들, 이옥·이학 두 분과 할머니 신문란 여사의 이야기를 전하겠습니다.
 **백범김구기념관 공식 인터뷰**
@@ -721,7 +722,7 @@ https://www.youtube.com/watch?v=NZlIOjAmNzg
 - 제10편: 3천 석은 어디로 갔을까 — 기록이 말하는 것과 말하지 않는 것 https://blog.naver.com/congcongyi/224477845604
 - 연재 안내: 잠시 숨을 고르며 — 열 편의 기록을 마친 뒤 https://blog.naver.com/congcongyi/224477859251
 **주요 참고자료**
-[1] 『함평이씨대동보』 권11 효우공파, 1080쪽(이붕서·이돈화·이경헌·이계송·이동범 직계, 자·생몰·관직·묘소·묘갈 기재, 이계송 ‘一名 弘奎’).
+[1] 『함평이씨대동보』 권11 효우공파, 1080쪽(이붕서·이돈화·이경헌·이계송·이동범 직계, 자·생몰·관직·묘소·묘갈 기재, 이계송 ‘一名 弘奎’). 같은 내용은 1989년 간행본 권8 효우공파 779–780쪽에도 실려 있음.
 [2] 가족 묘역 ‘李公弘奎’ 비석(‘折衝將軍 僉知中樞府事’ 명문), 백범김구기념관 2026. 10. 26. 촬영. 명문 전체 판독 진행 중.
 [3] 『관보』 제2598호(1903. 8. 22), 만경군수 면직·은율군수 임명.
 [4] 『매일신보』, 1917년 7월 8일, 「全南名士 李東範氏」 인물 기사.
@@ -1154,13 +1155,14 @@ URL: https://lsaru23-ai.github.io/hp-db-archive/rec-023.html · 네이버 원문
 **각 글은 기록에서 확인되는 사실과 그 기록만으로는 확인할 수 없는 내용을 나누어 적습니다.**
 **분류** [사료] 『승정원일기』
 **자료 일자** 고종 14년 8월 21일(음력) = 1877년 9월 27일
-**함께 보는 기록** 고종 8년(1871) 9월 13일·21일, 고종 20년(1883) 5월 3일
+**함께 보는 기록** 1871년 4월 무과 급제 교지(홍패, 종가 소장) · 『승정원일기』 고종 8년(1871) 9월 13일·21일, 고종 20년(1883) 5월 3일
 **원문 출처** 국사편찬위원회 승정원일기 DB · 서울대학교 규장각한국학연구원 원본 이미지
 **원면** [고종 14년 8월 21일 기사](https://sjw.history.go.kr/id/SJW-K14080210-01700) (원문 이미지는 '규장각원본' 링크로 열람)
 
 ### 이 기록은
 
 석암 이동범 선생의 부친 이계송(李啓松) 선생은 『함평이씨대동보』에 다른 이름 '홍규(弘奎)'로도 적혀 있습니다. 1877년 『승정원일기』에는 '함평의 전 오위장 이홍규(咸平前五衛將李弘奎)'가 흉년 구휼(진휼)에 쓸 돈 1,500냥을 낸 사람으로 올라 있습니다. 전라감사 이돈상(李敦相)이 진휼을 마친 뒤 올린 보고(장계)와 명단을 근거로, 이조가 자원해 돈을 낸 사람들(願納人)에게 포상을 건의한 기사입니다.
+함평 종가에는 1871년 이홍규가 무과에 급제했음을 알리는 교지(홍패)가 전해 옵니다.
 
 ### 원문 (발췌)
 
@@ -1171,7 +1173,16 @@ URL: https://lsaru23-ai.github.io/hp-db-archive/rec-023.html · 네이버 원문
 
 각 고을에서 자원해 돈을 낸 사람 가운데 … 함평의 전 오위장 이홍규와 김제의 전 오위장 김광백은 각각 돈 1,500냥을 냈으니, 위 두 사람은 상당한 직책에 등용하소서.
 
-### 같은 이름이 나오는 다른 기록 (『승정원일기』) — 1877년 기록의 이홍규와 같은 사람인지는 별도 검증 대상입니다
+### 종가에 전하는 무과 급제 교지(홍패)
+
+> 敎旨
+> 閑良李弘奎武科乙科
+> 第二人及第出身者
+> 同治十年四月　日
+
+"교지. 한량 이홍규를 무과 을과 제2인으로 급제시켜 출신(出身)으로 삼는다. 동치 10년(1871) 4월 일." 함께 전하는 표제 띠에도 「閑良李弘奎武科乙科第二人」이라고 적혀 있습니다. '한량(閑良)'은 아직 관직에 나아가지 않은 무반 지망자를 가리킵니다. 『함평이씨대동보』 이계송 항목(1989년 간행본 권8 779쪽, 온라인 족보 출력본 권11 1080쪽)에는 "일명 홍규(弘奎)"와 "신미년(1871) 무첨추(武僉樞)"가 적혀 있는데, 신미년은 홍패의 동치 10년과 같은 해입니다.
+
+### 같은 이름이 나오는 다른 기록 (『승정원일기』) — 무과 급제(1871. 4.)와 경력의 흐름으로 보아 같은 사람일 가능성이 높다고 추론됩니다. 각 연도 기록은 무과 방목 등과 하나씩 대조할 예정이며, 아직 확정하지 않습니다
 
 1871년 9월 13일(음력, 양력 10월 26일): 병조 인사에서 李弘奎爲五衛將(오위장 임명), 이어진 인사에서 僉知單李弘奎(첨지중추부사 후보로 단독 기재)
 1871년 9월 21일(음력): 오위장 이홍규 등이 병으로 직무를 감당하지 못해 교체됨
@@ -1183,18 +1194,21 @@ URL: https://lsaru23-ai.github.io/hp-db-archive/rec-023.html · 네이버 원문
 1877년 '함평의 전 오위장 이홍규'가 진휼 비용으로 1,500냥을 냈다는 사실이 정부 기록에 남아 있습니다. 원본 이미지에서도 인명·지명·금액이 판독문과 같습니다.
 이조는 이 공로로 그를 '상당한 직책에 등용'하자고 건의했습니다.
 1877년 이전에 이미 오위장을 지낸 사람이었습니다('전 오위장').
+이홍규는 1871년 4월 무과에 을과 제2인으로 급제했습니다(종가 소장 홍패). 같은 해 9월 『승정원일기』에는 같은 이름의 오위장 임명 기록이 있고, 1877년 기사에는 '함평 전 오위장 이홍규'로 나옵니다. 급제와 오위장 임명이 같은 사람의 경력이라는 것은 시기에 근거한 추론입니다.
 
 ### 이 기록만으로 확인할 수 없는 것
 
 건의에 따라 **실제로 관직에 임용되었는지** (이 기사는 건의 단계까지만 보여 줍니다)
 1,500냥이 당시 어느 정도의 규모였는지, 어떤 방식으로 냈는지
-1871·1873·1883년 기록의 이홍규가 함평의 이홍규와 같은 사람인지. 이 기록들에는 지역 표기가 없습니다. 같은 사람으로 보는 근거는 1877년 기사의 '함평 전 오위장', 『대동보』의 '일명 홍규'와 1871년 '武僉樞' 기재, 1913년 『조선신사대동보』 이동범 항목의 '父 李弘奎(同中樞)'([기록 026](https://blog.naver.com/congcongyi/224483246191))입니다.
+1871·1873·1883년 기록의 이홍규가 함평의 이홍규와 같은 사람인지. 이 기록들에는 지역 표기가 없습니다. 같은 사람일 가능성이 높다고 보는 근거는 1871년 4월 무과 급제 홍패와 같은 해 9월 오위장 임명이 시기상 이어진다는 점(추론), 1877년 기사의 '함평 전 오위장', 『대동보』의 '일명 홍규'와 1871년 '武僉樞' 기재, 1913년 『조선신사대동보』 이동범 항목의 '父 李弘奎(同中樞)'([기록 026](https://blog.naver.com/congcongyi/224483246191))입니다.
+1871년 무과의 정확한 과거 명칭과 전체 순위, 무과 방목에 적힌 거주지·부친 이름. 방목 대조를 마치면 보완하겠습니다.
 오위장·첨지중추부사가 실제 근무를 전제로 한 직이었는지, 명예직 성격이었는지
 
 ### 함께 볼 글
 
 연재 [번외편 ① 석암 이동범의 선대 어르신들](https://blog.naver.com/congcongyi/224478136397) · [제5편](https://blog.naver.com/congcongyi/224477304863)
 『승정원일기』 고종 14년 8월 21일, 고종 8년 9월 13일·21일, 고종 10년 1월 13일·12월 27일, 고종 11년 1월 7일, 고종 20년 5월 3일. 국사편찬위원회 승정원일기 DB, 서울대학교 규장각한국학연구원 원본.
+무과 급제 교지(홍패), 동치 10년(1871) 4월, 함평 종가 소장. 『함평이씨대동보』(1989년 간행) 권8 효우공파 779쪽; 같은 내용 온라인 족보 출력본 권11 1080쪽.
 ---
 이 기록과 관련된 자료(옛 사진, 문서, 신문 스크랩 등)를 갖고 계신 분은 블로그 쪽지로 알려 주시면 감사하겠습니다. 전체 연표: [128년의 기록과 보도 — 연표](https://blog.naver.com/congcongyi/224480535151)
 
@@ -1211,7 +1225,7 @@ URL: https://lsaru23-ai.github.io/hp-db-archive/rec-024.html · 네이버 원문
 
 ### 이 기록은
 
-석암 이동범 선생의 조부 이경헌(李警憲, 1825~1855) 선생에게 돌아가신 뒤 관직이 내려진 기록입니다. 『함평이씨대동보』에는 이경헌 선생 항목에 '교관(敎官)'이 적혀 있는데, 그 근거가 되는 정부 기록입니다.
+석암 이동범 선생의 조부 이경헌(李警憲, 1825~1855) 선생에게 돌아가신 뒤 관직이 내려진 기록입니다. 『함평이씨대동보』의 이경헌 선생 항목에는 '교관(敎官)' 등이 적혀 있습니다. 이 기록은 그중 '교관'과 관련된 정부 기록입니다.
 
 ### 원문 (발췌)
 
@@ -1225,10 +1239,10 @@ URL: https://lsaru23-ai.github.io/hp-db-archive/rec-024.html · 네이버 원문
 
 1891년(음력 1890년 12월) 조정이 이경헌 선생에게 동몽교관을 추증했습니다. 추증 사유는 '효행이 특별히 뛰어남(孝行卓異)'입니다.
 해당 기록에는 '학생(學生)'으로 표기되어 있습니다. 학생은 관직이 없는 선비를 가리키는 말이지만, 이 기록만으로 생전 이력 전체를 단정하지는 않습니다.
-『대동보』의 '교관'은 이 추증을 가리키는 것으로 보입니다.
 
 ### 이 기록만으로 확인할 수 없는 것
 
+『대동보』의 '교관'이 이 추증만을 가리키는지
 효행의 구체적 내용
 추증을 누가 청했는지 (돌아가신 지 약 35년 뒤의 일입니다)
 『대동보』에 함께 적힌 '조봉대부(朝奉大夫, 종4품 품계)'의 근거. 동몽교관과 조봉대부가 어떤 관계로 기재되었는지는 확인하지 못했습니다.
@@ -1237,6 +1251,7 @@ URL: https://lsaru23-ai.github.io/hp-db-archive/rec-024.html · 네이버 원문
 
 연재 [번외편 ① 석암 이동범의 선대 어르신들](https://blog.naver.com/congcongyi/224478136397)
 『승정원일기』 고종 27년 12월 23일. 국사편찬위원회 승정원일기 DB, 서울대학교 규장각한국학연구원 원본.
+『함평이씨대동보』(1989년 간행) 권8 효우공파 779쪽; 같은 내용 온라인 족보 출력본 권11 1080쪽.
 ---
 이 기록과 관련된 자료(옛 사진, 문서, 신문 스크랩 등)를 갖고 계신 분은 블로그 쪽지로 알려 주시면 감사하겠습니다. 전체 연표: [128년의 기록과 보도 — 연표](https://blog.naver.com/congcongyi/224480535151)
 
@@ -1557,13 +1572,14 @@ URL: https://lsaru23-ai.github.io/hp-db-archive/en/rec-023.html · 네이버 원
 **Each entry separates what the record confirms from what it cannot confirm on its own.**
 **Category** [Primary source] *Seungjeongwon Ilgi* (Royal Secretariat Diary)
 **Record date** Gojong 14/8/21 (lunar) = 27 September 1877
-**Related entries** Gojong 8 (1871) 9/13 and 9/21; Gojong 20 (1883) 5/3
+**Related entries** Military-examination diploma (*hongpae*), 4th month of 1871 (held by the family) · *Seungjeongwon Ilgi*, Gojong 8 (1871) 9/13 and 9/21; Gojong 20 (1883) 5/3
 **Source** National Institute of Korean History, *Seungjeongwon Ilgi* database; original images at Kyujanggak Institute, Seoul National University
 **Original** [Entry of Gojong 14/8/21](https://sjw.history.go.kr/id/SJW-K14080210-01700) (page image via the "Kyujanggak original" link)
 
 ### About this record
 
 Lee Gye-song (李啓松), father of Seok-am Lee Dong-beom, is also recorded in the *Hampyeong Lee Clan Comprehensive Genealogy* under another name, Hong-gyu (弘奎). The *Seungjeongwon Ilgi* for 1877 lists "Lee Hong-gyu, former *owijang* of Hampyeong" (咸平前五衛將李弘奎) among those who contributed 1,500 *nyang* toward famine relief. The entry is a proposal by the Ministry of Personnel to reward voluntary contributors (願納人), based on the report and roll submitted by Yi Don-sang, Governor of Jeolla Province, on completing the relief.
+The Hampyeong head family still holds the royal diploma (*hongpae*) recording Lee Hong-gyu's success in the military examination in 1871.
 
 ### Original text (excerpt)
 
@@ -1574,7 +1590,16 @@ Lee Gye-song (李啓松), father of Seok-am Lee Dong-beom, is also recorded in t
 
 Among the voluntary contributors of the counties … Lee Hong-gyu, former *owijang* of Hampyeong, and Kim Gwang-baek, former *owijang* of Gimje, each gave 1,500 *nyang*; it is proposed that these two be employed in suitable posts.
 
-### Other entries under the same name (***Seungjeongwon Ilgi***) — whether this is the same man as in the 1877 entry remains to be verified
+### The military-examination diploma kept by the family
+
+> 敎旨
+> 閑良李弘奎武科乙科
+> 第二人及第出身者
+> 同治十年四月　日
+
+"Royal decree. *Hallyang* Lee Hong-gyu has passed the military examination, second place in the second (*eulgwa*) class, and is admitted to official status. 4th month of the 10th year of Tongzhi (1871)." An accompanying title strip also reads "閑良李弘奎武科乙科第二人." *Hallyang* (閑良) denotes a candidate of military background who had not yet entered office. The genealogy entry for Lee Gye-song (1989 edition, vol. 8, p. 779; online genealogy printout, vol. 11, p. 1080) records "also named Hong-gyu (弘奎)" and a military *cheomchu* title in the *sinmi* year (1871), the same year as the diploma.
+
+### Other entries under the same name (*Seungjeongwon Ilgi*) — given his examination success (4th month of 1871) and the sequence of his career, these entries are likely to refer to the same person (an inference); each entry is still to be checked individually against the examination roster and is not yet confirmed
 
 9/13/1871 (lunar; 26 Oct.): appointed *owijang* (李弘奎爲五衛將); in a later round, listed as sole nominee for *cheomji jungchubusa* (僉知單李弘奎)
 9/21/1871 (lunar): *owijang* Lee Hong-gyu and others replaced on grounds of illness
@@ -1586,12 +1611,14 @@ Among the voluntary contributors of the counties … Lee Hong-gyu, former *owija
 A government record shows that "Lee Hong-gyu, former *owijang* of Hampyeong" contributed 1,500 *nyang* to famine relief in 1877. On the original page image, the name, place and amount match the database transcription.
 The Ministry of Personnel proposed employing him in a suitable post in recognition.
 He had already served as *owijang* before 1877 ("former *owijang*").
+Lee Hong-gyu passed the military examination in the 4th month of 1871, second place in the *eulgwa* class (diploma held by the family). The *Seungjeongwon Ilgi* records an *owijang* of the same name appointed in the 9th month of the same year, and the 1877 entry names "Lee Hong-gyu, former *owijang* of Hampyeong." That the examination and the *owijang* appointment belong to the same man's career is an inference from their timing.
 
 ### What this record alone cannot confirm
 
 Whether he was **actually appointed** to a post as proposed (the entry records only the proposal)
 What 1,500 *nyang* amounted to at the time, or how it was paid
-Whether the Lee Hong-gyu of the 1871, 1873 and 1883 entries is the same man; those entries give no place of origin. The grounds for treating them as the same person are the 1877 entry ("former *owijang* of Hampyeong"), the genealogy's "also named Hong-gyu" and its note of a military *cheomchu* title in 1871, and the 1913 *Joseon Sinsa Daedongbo* entry for Lee Dong-beom giving his father as "李弘奎 (同中樞)" ([Record 026](https://blog.naver.com/congcongyi/224483254565)).
+Whether the Lee Hong-gyu of the 1871, 1873 and 1883 entries is the Lee Hong-gyu of Hampyeong; those entries give no place of origin. The grounds for regarding them as likely to refer to the same person are the 1871 examination diploma followed in the same year by an *owijang* appointment (an inference from timing), the 1877 entry ("former *owijang* of Hampyeong"), the genealogy's "also named Hong-gyu" and its 1871 military *cheomchu* title, and the 1913 *Joseon Sinsa Daedongbo* entry for Lee Dong-beom giving his father as "李弘奎 (同中樞)" ([Record 026](https://blog.naver.com/congcongyi/224483254565)).
+The exact name of the 1871 examination, his overall rank, and the residence and father's name recorded in the examination roster. These will be added once the roster has been checked.
 Whether the posts of *owijang* and *cheomji jungchubusa* involved actual duties or were largely honorary
 
 ### Related posts
@@ -1601,6 +1628,7 @@ Series [Special Edition 1](https://lsaru23-ai.github.io/hp-db-archive/en/ex1.htm
 ### Sources
 
 *Seungjeongwon Ilgi*, Gojong 14/8/21; Gojong 8/9/13 and 9/21; Gojong 10/1/13 and 12/27; Gojong 11/1/7; Gojong 20/5/3. NIKH *Seungjeongwon Ilgi* database; Kyujanggak Institute originals.
+Military-examination diploma (*hongpae*), 4th month of the 10th year of Tongzhi (1871), held by the Hampyeong head family. *Hampyeong Lee Clan Comprehensive Genealogy* (1989 edition), vol. 8, Hyou-gong branch, p. 779; the same entry appears in the online genealogy printout, vol. 11, p. 1080.
 ---
 If you hold related materials (old photographs, documents, newspaper clippings), we would be grateful to hear from you by private message on this blog. Full timeline: [Historical Records & Media Coverage — Timeline](https://blog.naver.com/congcongyi/224480535151)
 
@@ -1617,7 +1645,7 @@ URL: https://lsaru23-ai.github.io/hp-db-archive/en/rec-024.html · 네이버 원
 
 ### About this record
 
-This is the record of a posthumous office granted to Lee Gyeong-heon (李警憲, 1825–1855), grandfather of Seok-am Lee Dong-beom. The *Hampyeong Lee Clan Comprehensive Genealogy* notes "*gyogwan*" (敎官) under his name; this government record is its source.
+This is the record of a posthumous office granted to Lee Gyeong-heon (李警憲, 1825–1855), grandfather of Seok-am Lee Dong-beom. The *Hampyeong Lee Clan Comprehensive Genealogy* notes "*gyogwan*" (敎官), among other titles, under his name; this government record relates to that entry.
 
 ### Original text (excerpt)
 
@@ -1631,10 +1659,10 @@ The late Lee Gyeong-heon, *haksaeng* (a scholar without office), is posthumously
 
 In 1891 (12th lunar month of 1890) the court posthumously granted Lee Gyeong-heon the title of *dongmong gyogwan*, for "outstanding filial piety" (孝行卓異).
 The record describes him as *haksaeng*, a term for a scholar without office; this record alone does not settle his whole life history.
-The genealogy's "*gyogwan*" appears to refer to this posthumous title.
 
 ### What this record alone cannot confirm
 
+Whether the genealogy's "*gyogwan*" refers only to this posthumous title
 What his filial conduct consisted of
 Who petitioned for the title (it came about 35 years after his death)
 The basis for the genealogy's additional entry "*jobong daebu*" (朝奉大夫, a junior fourth-rank grade), or how it relates to the title of *dongmong gyogwan*
@@ -1643,6 +1671,7 @@ The basis for the genealogy's additional entry "*jobong daebu*" (朝奉大夫, a
 
 Series [Special Edition 1](https://lsaru23-ai.github.io/hp-db-archive/en/ex1.html)
 *Seungjeongwon Ilgi*, Gojong 27/12/23. NIKH *Seungjeongwon Ilgi* database; Kyujanggak Institute originals.
+*Hampyeong Lee Clan Comprehensive Genealogy* (1989 edition), vol. 8, Hyou-gong branch, p. 779; the same entry appears in the online genealogy printout, vol. 11, p. 1080.
 ---
 If you hold related materials (old photographs, documents, newspaper clippings), we would be grateful to hear from you by private message on this blog. Full timeline: [Historical Records & Media Coverage — Timeline](https://blog.naver.com/congcongyi/224480535151)
 
@@ -1718,5 +1747,59 @@ Records related to the Lee Dong-beom family of Hampyeong, listed by the date eac
 > Record numbers (REC) are fixed identifiers assigned in the overall list of records and do not necessarily indicate chronological order. Because records are published only once verified, numbers may skip. This timeline is sorted by the date each record was written or published.
 > 앞으로 추가될 기록(1902~1904 관보, 1909년 경찰 기록, 1930년 신문, 『백범일지』, 기관 기록, 언론 보도)은 검증을 마친 뒤 날짜 순서에 맞춰 이 표에 넣습니다. 연표 표시 순서는 자료 일자 기준입니다. 예를 들어 1947년 6월 「光明」은 같은 해 12월 『백범일지』 초판보다 앞에, 2002년 보도는 2003년 조사보고서보다 앞에 놓입니다.
 > Further records will be added in date order after verification.
+
+**함평 이동범가 선대 주요 이력·관력 간략 연표**
+
+(세대는 『함평이씨대동보』의 세수(世數)이며, 괄호 안 호칭은 필자 기준입니다. 근거 표시: [관] 정부 기록 · [원] 종가 소장 원본 · [보] 『함평이씨대동보』 · [후] 후대 편찬물·신문)
+
+| 세대 | 인물 | 연도 | 내용 | 근거 |
+| --- | --- | --- | --- | --- |
+| 24세 (8대조) | 이붕서(李鵬緖, 1779~1809) | — | 족보에 관직 기재 없음. 묘갈은 아들 이돈화 선생이 지음 | [보] |
+| 25세 (7대조) | 이돈화(李敦華, 1797~1860) | 1856 | 다경진 만호(多慶鎭萬戶) | [보] |
+|  |  | — | 묘갈은 손자 이계송 선생이 짓고, 증손 이동범 선생이 비각을 세움 | [보] |
+| 26세 (6대조) | 이경헌(李警憲, 1825~1855) | — | 족보에 조봉대부(朝奉大夫)·교관(敎官) 기재 | [보] |
+|  |  | 1891 | 효행으로 동몽교관에 **추증**(돌아가신 뒤 내려진 관직) | [관] [기록 024](https://lsaru23-ai.github.io/hp-db-archive/rec-024.html) |
+| 27세 (5대조) | 이계송(李啓松, 1841~1884), 일명 홍규(弘奎) | 1871. 4. | 무과 을과 제2인 급제 | [원] 홍패 |
+|  |  | 1871 | 족보에 '무첨추(武僉樞)' 기재 | [보] |
+|  |  | 1871~1883 | 같은 이름의 오위장 임명·가설 기록(지역 표기 없음, 같은 사람일 가능성이 높다고 추론) | [관] [기록 023](https://lsaru23-ai.github.io/hp-db-archive/rec-023.html) |
+|  |  | 1877 | '함평 전 오위장 이홍규', 진휼 비용 1,500냥 출연 | [관] [기록 023](https://lsaru23-ai.github.io/hp-db-archive/rec-023.html) |
+|  |  | — | 묘비에 절충장군·첨지중추부사 | 묘비 |
+| 28세 (고조부) | 석암 이동범(李東範, 1869~1940) | 1897 | 조경묘 참봉 임명(6. 28.)·사임(7. 4.) | [관] [기록 001](https://lsaru23-ai.github.io/hp-db-archive/rec-001.html) |
+|  |  | 1899 | '전 참봉'으로 불림 | [관·신문] [기록 002](https://lsaru23-ai.github.io/hp-db-archive/rec-002.html) |
+|  |  | 1902 | 중추원 의관과 정3품 통정대부 관련 기록이 전함. 품계의 정확한 경위는 추가 검증 중 | [후] [기록 026](https://lsaru23-ai.github.io/hp-db-archive/rec-026.html)·1917 『매일신보』 |
+|  |  | 1903. 8. | 만경군수 사임, 이튿날 은율군수 임명 | [관] 『관보』 제2598호 |
+|  |  | 1913 | "만경·은율 군수로 고을을 다스릴 때 청렴하고 곧아, 남긴 은덕이 많다" | [후] [기록 026](https://lsaru23-ai.github.io/hp-db-archive/rec-026.html) |
+| 29세 (증조부) | 춘강 이재승(李載昇, 1890~1962) | 1913 | 함평군 공립보통학교 학무위원 | [후] [기록 026](https://lsaru23-ai.github.io/hp-db-archive/rec-026.html) |
+|  |  | 1938 | 『동아일보』 인물 기사 「古道에 充實 春崗 李載昇氏」 | [기록 011](https://lsaru23-ai.github.io/hp-db-archive/rec-011.html) |
+| 30세 (조부) | 이상래(李祥來, 1909~1970) | — | 관직 기록 미확인 | — |
+
+*족보의 관직 기재와 실제 임명·재임은 구별해서 읽어야 합니다. 1871~1883년 오위장 기록과 이계송 선생의 연결은 추론이며, 무과 방목과 대조할 예정입니다. 이재승·이상래 선생의 생몰년은 제적등본 기준입니다(『대동보』에는 이재승 선생 1959년 졸, 이상래 선생 1969년 음력 정월 20일 졸).*
+
+**Lee Dong-beom Family of Hampyeong: A Brief Chronology of Ancestors' Careers and Offices**
+
+(Generations follow the genealogy's generation numbers (世); relationships in brackets are to the author. Sources: [G] government records · [F] originals held by the family · [Gen] *Hampyeong Lee Clan Comprehensive Genealogy* · [L] later compilations and newspapers)
+
+| Generation | Person | Year | Entry | Source |
+| --- | --- | --- | --- | --- |
+| 24th (8th-generation ancestor) | Lee Bung-seo (李鵬緖, 1779–1809) | — | No office recorded in the genealogy; his tomb inscription was composed by his son Lee Don-hwa | [Gen] |
+| 25th (7th-generation ancestor) | Lee Don-hwa (李敦華, 1797–1860) | 1856 | *Manho* of Dagyeong Garrison (多慶鎭萬戶) | [Gen] |
+|  |  | — | Tomb inscription composed by his grandson Lee Gye-song; stele pavilion erected by his great-grandson Lee Dong-beom | [Gen] |
+| 26th (6th-generation ancestor) | Lee Gyeong-heon (李警憲, 1825–1855) | — | *Jobong daebu* (朝奉大夫) and *gyogwan* (敎官) recorded in the genealogy | [Gen] |
+|  |  | 1891 | **Posthumously** appointed *dongmong gyogwan* for filial piety | [G] [Record 024](https://lsaru23-ai.github.io/hp-db-archive/en/rec-024.html) |
+| 27th (5th-generation ancestor) | Lee Gye-song (李啓松, 1841–1884), also named Hong-gyu (弘奎) | 1871 (4th month) | Passed the military examination, second place in the *eulgwa* class | [F] diploma |
+|  |  | 1871 | "*Mucheomchu*" (武僉樞) recorded in the genealogy | [Gen] |
+|  |  | 1871–1883 | Appointments of an *owijang* of the same name (no place given; likely the same person, by inference) | [G] [Record 023](https://lsaru23-ai.github.io/hp-db-archive/en/rec-023.html) |
+|  |  | 1877 | "Lee Hong-gyu, former *owijang* of Hampyeong," contributed 1,500 *nyang* to famine relief | [G] [Record 023](https://lsaru23-ai.github.io/hp-db-archive/en/rec-023.html) |
+|  |  | — | Gravestone: *Jeolchung janggun*, *Cheomji jungchubusa* | gravestone |
+| 28th (great-great-grandfather) | Seok-am Lee Dong-beom (李東範, 1869–1940) | 1897 | Appointed (28 June) and resigned (4 July) as *chambong* of Jogyeongmyo | [G] [Record 001](https://lsaru23-ai.github.io/hp-db-archive/en/rec-001.html) |
+|  |  | 1899 | Referred to as "former *chambong*" | [G/newspaper] [Record 002](https://lsaru23-ai.github.io/hp-db-archive/en/rec-002.html) |
+|  |  | 1902 | Records refer to service as councillor of the Jungchuwon and to the senior third rank (*tongjeong daebu*); the exact circumstances of the rank are still being verified | [L] [Record 026](https://lsaru23-ai.github.io/hp-db-archive/en/rec-026.html); *Maeil Sinbo* 1917 |
+|  |  | 1903 (August) | Resigned as magistrate of Mangyeong; appointed magistrate of Eunyul the next day | [G] *Official Gazette* no. 2598 |
+|  |  | 1913 | "Upright and honest as magistrate of Mangyeong and Eunyul, leaving much goodwill behind" | [L] [Record 026](https://lsaru23-ai.github.io/hp-db-archive/en/rec-026.html) |
+| 29th (great-grandfather) | Chun-gang Lee Jae-seung (李載昇, 1890–1962) | 1913 | School affairs committee member, Hampyeong Public Common School | [L] [Record 026](https://lsaru23-ai.github.io/hp-db-archive/en/rec-026.html) |
+|  |  | 1938 | *Dong-A Ilbo* profile, "古道에 充實 春崗 李載昇氏" | [Record 011](https://lsaru23-ai.github.io/hp-db-archive/en/rec-011.html) |
+| 30th (grandfather) | Lee Sang-rae (李祥來, 1909–1970) | — | No official post found | — |
+
+*Offices recorded in the genealogy should be read separately from actual appointment and service. The link between the 1871–1883 owijang entries and Lee Gye-song is an inference, to be checked against the examination roster. The dates for Lee Jae-seung and Lee Sang-rae follow the family register (the genealogy gives their years of death as 1959 and 1969, the latter on the 20th day of the first lunar month).*
 ---
 **함께 보기 / See also**: [역사 연재 국·영문 통합 목차](https://blog.naver.com/congcongyi/224479180682) · [공개 아카이브](https://lsaru23-ai.github.io/hp-db-archive/)
