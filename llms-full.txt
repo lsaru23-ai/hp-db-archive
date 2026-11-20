@@ -1766,11 +1766,16 @@ Records related to the Lee Dong-beom family of Hampyeong, listed by the date eac
 |  |  | — | 묘비에 절충장군·첨지중추부사 | 묘비 |
 | 28세 (고조부) | 석암 이동범(李東範, 1869~1940) | 1897 | 조경묘 참봉 임명(6. 28.)·사임(7. 4.) | [관] [기록 001](https://lsaru23-ai.github.io/hp-db-archive/rec-001.html) |
 |  |  | 1899 | '전 참봉'으로 불림 | [신문] [기록 002](https://lsaru23-ai.github.io/hp-db-archive/rec-002.html) |
-|  |  | 1902 | 중추원 의관과 정3품 통정대부 관련 기록이 전함. 품계의 정확한 경위는 추가 검증 중 | [후] [기록 026](https://lsaru23-ai.github.io/hp-db-archive/rec-026.html)·1917 『매일신보』 |
+|  |  | 1902. 4. | 중추원 의관 임명(4. 18.), 다음 날 사임 | [관] 『관보』 제2180호·『비서원일기』 |
+|  |  | 1902. 6. | 만경군수 임명(6. 14.), 7. 8. 도임 | [관] 『관보』 제2229·2273호 |
+|  |  | 1902 | 정3품 통정대부 관련 기록이 전함. 품계의 정확한 경위는 추가 검증 중 | [후] [기록 026](https://lsaru23-ai.github.io/hp-db-archive/rec-026.html)·1917 『매일신보』 |
+|  |  | 1903. 2. | 전라북도 군수 치적 평가에 만경군수로 실림 | [관] 『관보』 제2430호 |
 |  |  | 1903. 8. | 만경군수 사임, 이튿날 은율군수 임명 | [관] 『관보』 제2598호 |
+|  |  | 1903. 11. | 은율군수 도임(11. 10.) | [관] 『관보』 제2690호 |
 |  |  | 1913 | "만경·은율 군수로 고을을 다스릴 때 청렴하고 곧아, 남긴 은덕이 많다" | [후] [기록 026](https://lsaru23-ai.github.io/hp-db-archive/rec-026.html) |
+|  |  | 1937 | 함평공원 세심정(洗心亭)을 세웠다고 후대 기록에 전함 | [후] 『제3차 함평군사』(2011) |
 | 29세 (증조부) | 춘강 이재승(李載昇, 1890~1962) | 1913 | 함평군 공립보통학교 학무위원 | [후] [기록 026](https://lsaru23-ai.github.io/hp-db-archive/rec-026.html) |
-|  |  | 1938 | 『동아일보』 인물 기사 「古道에 充實 春崗 李載昇氏」 | [기록 011](https://lsaru23-ai.github.io/hp-db-archive/rec-011.html) |
+|  |  | 1938 | 『동아일보』 인물 기사 「古道에 充實 春崗 李載昇氏」 — 함평면장을 지낸 인물로 소개(재임 시기는 미확인) | [후] [기록 011](https://lsaru23-ai.github.io/hp-db-archive/rec-011.html) |
 | 30세 (조부) | 이상래(李祥來, 1909~1970) | — | 관직 기록 미확인 | — |
 
 *족보의 관직 기재와 실제 임명·재임은 구별해서 읽어야 합니다. 1871~1883년 오위장 기록과 이계송 선생의 연결은 추론이며, 무과 방목과 대조할 예정입니다. 이재승·이상래 선생의 생몰년은 제적등본 기준입니다(『대동보』에는 이재승 선생 1959년 졸, 이상래 선생 1969년 음력 정월 20일 졸).*
@@ -1793,11 +1798,16 @@ Records related to the Lee Dong-beom family of Hampyeong, listed by the date eac
 |  |  | — | Gravestone: *Jeolchung janggun*, *Cheomji jungchubusa* | gravestone |
 | 28th (great-great-grandfather) | Seok-am Lee Dong-beom (李東範, 1869–1940) | 1897 | Appointed (28 June) and resigned (4 July) as *chambong* of Jogyeongmyo | [G] [Record 001](https://lsaru23-ai.github.io/hp-db-archive/en/rec-001.html) |
 |  |  | 1899 | Referred to as "former *chambong*" | [newspaper] [Record 002](https://lsaru23-ai.github.io/hp-db-archive/en/rec-002.html) |
-|  |  | 1902 | Records refer to service as councillor of the Jungchuwon and to the senior third rank (*tongjeong daebu*); the exact circumstances of the rank are still being verified | [L] [Record 026](https://lsaru23-ai.github.io/hp-db-archive/en/rec-026.html); *Maeil Sinbo* 1917 |
+|  |  | 1902 (April) | Appointed councillor of the Jungchuwon (18 April); resigned the next day | [G] *Official Gazette* no. 2180; *Biseowon ilgi* |
+|  |  | 1902 (June) | Appointed magistrate of Mangyeong (14 June); took office 8 July | [G] *Official Gazette* nos. 2229, 2273 |
+|  |  | 1902 | Records also refer to the senior third rank (*tongjeong daebu*); the exact circumstances of the rank are still being verified | [L] [Record 026](https://lsaru23-ai.github.io/hp-db-archive/en/rec-026.html); *Maeil Sinbo* 1917 |
+|  |  | 1903 (February) | Listed as magistrate of Mangyeong in the assessment of North Jeolla magistrates | [G] *Official Gazette* no. 2430 |
 |  |  | 1903 (August) | Resigned as magistrate of Mangyeong; appointed magistrate of Eunyul the next day | [G] *Official Gazette* no. 2598 |
+|  |  | 1903 (November) | Took office as magistrate of Eunyul (10 November) | [G] *Official Gazette* no. 2690 |
 |  |  | 1913 | "Upright and honest as magistrate of Mangyeong and Eunyul, leaving much goodwill behind" | [L] [Record 026](https://lsaru23-ai.github.io/hp-db-archive/en/rec-026.html) |
+|  |  | 1937 | Later records state that he built the Sesimjeong pavilion (洗心亭) in Hampyeong Park | [L] *Third History of Hampyeong County* (2011) |
 | 29th (great-grandfather) | Chun-gang Lee Jae-seung (李載昇, 1890–1962) | 1913 | School affairs committee member, Hampyeong Public Common School | [L] [Record 026](https://lsaru23-ai.github.io/hp-db-archive/en/rec-026.html) |
-|  |  | 1938 | *Dong-A Ilbo* profile, "古道에 充實 春崗 李載昇氏" | [Record 011](https://lsaru23-ai.github.io/hp-db-archive/en/rec-011.html) |
+|  |  | 1938 | *Dong-A Ilbo* profile, "古道에 充實 春崗 李載昇氏" — describes him as a former head of Hampyeong township (dates of service not confirmed) | [L] [Record 011](https://lsaru23-ai.github.io/hp-db-archive/en/rec-011.html) |
 | 30th (grandfather) | Lee Sang-rae (李祥來, 1909–1970) | — | No official post found | — |
 
 *Offices recorded in the genealogy should be read separately from actual appointment and service. The link between the 1871–1883 owijang entries and Lee Gye-song is an inference, to be checked against the examination roster. The dates for Lee Jae-seung and Lee Sang-rae follow the family register (the genealogy gives their years of death as 1959 and 1969, the latter on the 20th day of the first lunar month).*
