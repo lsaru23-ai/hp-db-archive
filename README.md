@@ -26,6 +26,25 @@
 | 번외편 ③ | 128년의 인연, 기록은 계속됩니다 — 함평 이동범가와 백범 김구 | [ex3.html](ex3.html) |
 | 안내 | 잠시 숨을 고르며 — 열 편의 기록을 마친 뒤 | [notice.html](notice.html) |
 
+## 새 연재 「시간을 거슬러, 함평 이동범가 7대」 (2026-11-22 추가)
+
+할아버지 이상래 공에서 8대조 이붕서 공까지 일곱 세대를 사료로 확인한 연재입니다. 국문 9편·영문 9편 모두 같은 내용을 언어만 바꾸어 두었고, 각 편은 [사료집(records.html)](records.html)의 기록을 근거로 연결됩니다.
+
+| 편 | 국문 | 영문 |
+|---|---|---|
+| 00 | [「기록을 고치는 법」](s00.html) | [How We Correct the Record](en/s00.html) |
+| 01 | [축약 연대기 「일곱 세대를 한 편에」](s01.html) | [Seven Generations in One Post](en/s01.html) |
+| ① | [이상래](s02.html) | [Lee Sang-rae](en/s02.html) |
+| ② | [춘강 이재승](s03.html) | [Chun-gang Lee Jae-seung](en/s03.html) |
+| ③ | [석암 이동범](s04.html) | [Seok-am Lee Dong-beom](en/s04.html) |
+| ④ | [이계송(홍규)](s05.html) | [Lee Gye-song (Hong-gyu)](en/s05.html) |
+| ⑤ | [이경헌](s06.html) | [Lee Gyeong-heon](en/s06.html) |
+| ⑥ | [이돈화(돈백)](s07.html) | [Lee Don-hwa (Don-baek)](en/s07.html) |
+| ⑦ | [이붕서](s08.html) | [Lee Bung-seo](en/s08.html) |
+
+- 연재 목차: [series.html](series.html) · 사료집: [records.html](records.html)
+- 원문은 네이버 블로그 게시본(2026-11-22 최종 검수본)과 같은 텍스트이며, 사진은 넣지 않았습니다.
+
 ## 게시판 「128년의 기록과 보도」
 
 옛 신문·관보·공문서·기관 기록·언론 보도를 원문과 함께 소개하는 게시판입니다. 각 글은 기록에서 확인되는 사실과 그 기록만으로는 확인할 수 없는 내용을 나누어 적었습니다. 기록 번호(REC)는 고정 식별번호이며, 검증을 마친 기록부터 국문·영문으로 공개하므로 번호가 건너뜁니다.
